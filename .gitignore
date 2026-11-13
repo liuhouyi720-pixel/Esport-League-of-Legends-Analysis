@@ -1,0 +1,11 @@
+.venv/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.csv
+data/raw/*.part
+.env
+.env.*
+!.env.example
+data/grid/raw/
+

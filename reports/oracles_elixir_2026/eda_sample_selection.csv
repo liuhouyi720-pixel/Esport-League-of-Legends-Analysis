@@ -1,0 +1,8 @@
+population,games
+Recorded unique games,9915
+Valid games for basic EDA,9915
+LCK: basic EDA,502
+LCK: reached 15 minutes,502
+"LCK: reached 15, missing required checkpoint fields",0
+"LCK: reached 15, present fields but inconsistent arithmetic",0
+LCK: usable gold-at-15 sample,502

@@ -1,0 +1,166 @@
+column,family,dtype,non_null_pct_all,non_null_pct_players,non_null_pct_teams,unique_non_null,example,unit,description
+gameid,Match metadata / outcome,string,100.0,100.0,100.0,9915,13057-13057_game_1,see description / source definition,Game identifier; validate uniqueness in this export before joining other sources.
+datacompleteness,Match metadata / outcome,str,100.0,100.0,100.0,2,partial,see description / source definition,Publisher completeness flag; not a guarantee that every column is populated.
+url,Match metadata / outcome,str,7.332324760463943,7.332324760463943,7.332324760463943,265,https://lpl.qq.com/es/stats.shtml?bmid=13057,see description / source definition,Source label or reference; see observed example and missingness.
+league,Match metadata / outcome,str,100.0,100.0,100.0,44,DCup,see description / source definition,Source label or reference; see observed example and missingness.
+year,Match metadata / outcome,int64,100.0,100.0,100.0,3,2025,see description / source definition,Source match metadata / outcome field; validate detailed semantics before advanced analysis.
+split,Match metadata / outcome,str,82.51134644478063,82.51134644478063,82.51134644478063,17,Season,see description / source definition,Source label or reference; see observed example and missingness.
+playoffs,Match metadata / outcome,int64,100.0,100.0,100.0,2,0,indicator; inspect coding,Source match metadata / outcome field; validate detailed semantics before advanced analysis.
+date,Match metadata / outcome,str,100.0,100.0,100.0,9907,2026-01-01 09:14:49,see description / source definition,Source game datetime; source timezone is not established here.
+game,Match metadata / outcome,int64,100.0,100.0,100.0,5,1,see description / source definition,Source match metadata / outcome field; validate detailed semantics before advanced analysis.
+patch,Match metadata / outcome,string,100.0,100.0,100.0,21,15.24,see description / source definition,"Game patch version, preserved as text."
+participantid,Identity / role / side,string,100.0,100.0,100.0,12,1,see description / source definition,Participant slot; the observed player/team slots are checked below.
+side,Identity / role / side,str,100.0,100.0,100.0,2,Blue,see description / source definition,Source label or reference; see observed example and missingness.
+position,Identity / role / side,str,100.0,100.0,100.0,6,top,see description / source definition,"Role label, including team summary; NOT a spatial coordinate."
+playername,Identity / role / side,str,83.33333333333334,100.0,0.0,2809,sheer,see description / source definition,Source label or reference; see observed example and missingness.
+playerid,Identity / role / side,string,81.72550008404774,98.07060010085729,0.0,2463,oe:player:3ce68cf813bc34243279fd7fe3cecbb,see description / source definition,"Player identity, when available; blank on team rows."
+teamname,Identity / role / side,str,100.0,100.0,100.0,419,LNG Esports,see description / source definition,Source label or reference; see observed example and missingness.
+teamid,Identity / role / side,string,97.21633888048412,97.21633888048412,97.21633888048412,359,oe:team:a9145b7711873f53e610fbba0493484,see description / source definition,"Team identity, when available; distinct from team display name."
+firstPick,Draft,float64,99.27382753403934,99.27382753403934,99.27382753403934,2,1.0,indicator; inspect coding,Publisher first-pick indicator; coding and coverage need validation for draft analysis.
+champion,Draft,str,83.33333333333334,100.0,0.0,172,Sion,see description / source definition,Source label or reference; see observed example and missingness.
+ban1,Draft,str,98.97629853756933,98.97629853756933,98.97629853756933,158,Qiyana,see description / source definition,Team champion ban slot; validate patch/draft format before use.
+ban2,Draft,str,99.09732728189611,99.09732728189611,99.09732728189611,159,Neeko,see description / source definition,Team champion ban slot; validate patch/draft format before use.
+ban3,Draft,str,99.05194150277357,99.05194150277357,99.05194150277357,158,Xin Zhao,see description / source definition,Team champion ban slot; validate patch/draft format before use.
+ban4,Draft,str,98.83005547150782,98.83005547150782,98.83005547150782,160,Rek'Sai,see description / source definition,Team champion ban slot; validate patch/draft format before use.
+ban5,Draft,str,98.80988401412002,98.80988401412002,98.80988401412002,166,Alistar,see description / source definition,Team champion ban slot; validate patch/draft format before use.
+pick1,Draft,str,16.530509329299043,0.0,99.18305597579426,146,Wukong,see description / source definition,Team champion pick slot; validate patch/draft format before use.
+pick2,Draft,str,16.530509329299043,0.0,99.18305597579426,159,Sion,see description / source definition,Team champion pick slot; validate patch/draft format before use.
+pick3,Draft,str,16.530509329299043,0.0,99.18305597579426,164,Ahri,see description / source definition,Team champion pick slot; validate patch/draft format before use.
+pick4,Draft,str,16.530509329299043,0.0,99.18305597579426,169,Yunara,see description / source definition,Team champion pick slot; validate patch/draft format before use.
+pick5,Draft,str,16.530509329299043,0.0,99.18305597579426,168,Braum,see description / source definition,Team champion pick slot; validate patch/draft format before use.
+gamelength,Match metadata / outcome,int64,100.0,100.0,100.0,1532,2278,seconds,Game duration in seconds in this export; checked against DPM below.
+result,Match metadata / outcome,int64,100.0,100.0,100.0,2,0,indicator; inspect coding,"Recorded result: 1 = win, 0 = loss."
+kills,Combat,int64,100.0,100.0,100.0,55,2,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+deaths,Combat,int64,100.0,100.0,100.0,55,4,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+assists,Combat,int64,100.0,100.0,100.0,108,7,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+teamkills,Combat,int64,100.0,100.0,100.0,55,13,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+teamdeaths,Combat,int64,100.0,100.0,100.0,55,22,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+doublekills,Combat,float64,98.3257690368129,98.3257690368129,98.3257690368129,13,0.0,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+triplekills,Combat,float64,98.3257690368129,98.3257690368129,98.3257690368129,5,0.0,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+quadrakills,Combat,float64,98.28542612203732,98.28542612203732,98.28542612203732,4,0.0,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+pentakills,Combat,float64,98.28542612203732,98.28542612203732,98.28542612203732,3,0.0,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+firstblood,Combat,float64,98.5913598924189,98.3257690368129,99.91931417044881,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+firstbloodkill,Combat,float64,83.26609514204067,99.91931417044881,0.0,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+firstbloodassist,Combat,float64,81.90452176836443,98.28542612203732,0.0,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+firstbloodvictim,Combat,float64,81.90452176836443,98.28542612203732,0.0,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+team kpm,Combat,float64,100.0,100.0,100.0,8351,0.3424,per minute,Source combat field; validate detailed semantics before advanced analysis.
+ckpm,Combat,float64,100.0,100.0,100.0,6306,0.9219,per minute,Source combat field; validate detailed semantics before advanced analysis.
+firstdragon,Objectives / structures,float64,16.649857118843503,0.0,99.89914271306102,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+dragons,Objectives / structures,float64,16.666666666666664,0.0,100.0,8,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_dragons,Objectives / structures,float64,16.666666666666664,0.0,100.0,8,4.0,see description / source definition,Opponent counterpart of dragons; use the matching row grain.
+elementaldrakes,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,6,3.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_elementaldrakes,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,6,1.0,see description / source definition,Opponent counterpart of elementaldrakes; use the matching row grain.
+infernals,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,1.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+mountains,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+clouds,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+oceans,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+chemtechs,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+hextechs,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,2.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+dragons (type unknown),Objectives / structures,float64,0.28576231299378047,0.0,1.714573877962683,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+elders,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_elders,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,5,0.0,see description / source definition,Opponent counterpart of elders; use the matching row grain.
+firstherald,Objectives / structures,float64,16.37418053454362,0.0,98.24508320726173,2,1.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+heralds,Objectives / structures,float64,16.666666666666664,0.0,100.0,3,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_heralds,Objectives / structures,float64,16.666666666666664,0.0,100.0,3,1.0,see description / source definition,Opponent counterpart of heralds; use the matching row grain.
+void_grubs,Objectives / structures,float64,16.666666666666664,0.0,100.0,5,2.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_void_grubs,Objectives / structures,float64,16.666666666666664,0.0,100.0,5,1.0,see description / source definition,Opponent counterpart of void_grubs; use the matching row grain.
+firstbaron,Objectives / structures,float64,16.26828038325769,0.0,97.60968229954614,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+barons,Objectives / structures,float64,86.75407631534712,84.10489157841654,100.0,5,1.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_barons,Objectives / structures,float64,86.75407631534712,84.10489157841654,100.0,5,0.0,see description / source definition,Opponent counterpart of barons; use the matching row grain.
+atakhans,Objectives / structures,float64,13.479576399394858,0.0,80.87745839636914,1,0.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_atakhans,Objectives / structures,float64,13.479576399394858,0.0,80.87745839636914,1,0.0,see description / source definition,Opponent counterpart of atakhans; use the matching row grain.
+firsttower,Objectives / structures,float64,16.65153807362582,0.0,99.90922844175492,2,0.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+towers,Objectives / structures,float64,16.666666666666664,0.0,100.0,18,7.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_towers,Objectives / structures,float64,16.666666666666664,0.0,100.0,18,8.0,see description / source definition,Opponent counterpart of towers; use the matching row grain.
+firstmidtower,Objectives / structures,float64,16.37922339889057,0.0,98.27534039334343,2,1.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+firsttothreetowers,Objectives / structures,float64,16.396032946713735,0.0,98.3761976802824,2,1.0,indicator; inspect coding,Publisher first-event indicator; do not interpret as an event timestamp.
+turretplates,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,46,22.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_turretplates,Objectives / structures,float64,16.387628172802152,0.0,98.3257690368129,46,26.0,see description / source definition,Opponent counterpart of turretplates; use the matching row grain.
+inhibitors,Objectives / structures,float64,86.75407631534712,84.10489157841654,100.0,10,1.0,see description / source definition,Source objectives / structures field; validate detailed semantics before advanced analysis.
+opp_inhibitors,Objectives / structures,float64,86.75407631534712,84.10489157841654,100.0,10,1.0,see description / source definition,Opponent counterpart of inhibitors; use the matching row grain.
+damagetochampions,Combat,int64,100.0,100.0,100.0,52426,25655,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+dpm,Combat,float64,100.0,100.0,100.0,118163,675.7243,per minute,Damage to champions per minute.
+damageshare,Combat,float64,83.33333333333334,100.0,0.0,86811,0.290739,fraction,Player share of team damage to champions.
+damagetakenperminute,Combat,float64,100.0,100.0,100.0,118102,1385.4522,per minute,Source combat field; validate detailed semantics before advanced analysis.
+damagemitigatedperminute,Combat,float64,98.3257690368129,98.3257690368129,98.3257690368129,116299,702.4374,per minute,Source combat field; validate detailed semantics before advanced analysis.
+damagetotowers,Combat,float64,98.3257690368129,98.3257690368129,98.3257690368129,28527,8005.0,see description / source definition,Source combat field; validate detailed semantics before advanced analysis.
+wardsplaced,Vision,int64,100.0,100.0,100.0,231,13,see description / source definition,Source vision field; validate detailed semantics before advanced analysis.
+wpm,Vision,float64,100.0,100.0,100.0,26945,0.3424,per minute,Source vision field; validate detailed semantics before advanced analysis.
+wardskilled,Vision,int64,100.0,100.0,100.0,123,8,see description / source definition,Source vision field; validate detailed semantics before advanced analysis.
+wcpm,Vision,float64,100.0,100.0,100.0,16305,0.2107,per minute,Source vision field; validate detailed semantics before advanced analysis.
+controlwardsbought,Vision,float64,99.9394856278366,99.9394856278366,99.9394856278366,100,8.0,see description / source definition,Source vision field; validate detailed semantics before advanced analysis.
+visionscore,Vision,int64,100.0,100.0,100.0,597,40,see description / source definition,Source vision field; validate detailed semantics before advanced analysis.
+vspm,Vision,float64,100.0,100.0,100.0,44931,1.0536,per minute,Source vision field; validate detailed semantics before advanced analysis.
+totalgold,Economy / farming,int64,100.0,100.0,100.0,32147,14517,gold,Source economy / farming field; validate detailed semantics before advanced analysis.
+earnedgold,Economy / farming,int64,100.0,100.0,100.0,29673,9594,gold,Publisher earned-gold metric; verify exclusions before interpreting.
+earned gpm,Economy / farming,float64,100.0,100.0,100.0,116739,252.6953,per minute,Publisher earned gold per minute; verify exclusions before interpreting.
+earnedgoldshare,Economy / farming,float64,83.33333333333334,100.0,0.0,79215,0.19112,fraction,Player share of team earned gold; verify publisher definition of earned gold.
+goldspent,Economy / farming,float64,99.9394856278366,99.9394856278366,99.9394856278366,19864,14004.0,gold,Source economy / farming field; validate detailed semantics before advanced analysis.
+gspd,Economy / farming,float64,16.656580937972766,0.0,99.9394856278366,19614,0.0230192,see description / source definition,Publisher gold-spent percentage-difference metric; verify precise formula.
+gpr,Economy / farming,float64,16.387628172802152,0.0,98.3257690368129,1351,-0.18,see description / source definition,Publisher gold metric; precise formula not verified in this audit.
+total cs,Economy / farming,float64,83.33333333333334,100.0,0.0,563,312.0,see description / source definition,Aggregate creep score; confirm included unit types when comparing sources.
+minionkills,Economy / farming,float64,98.77794587325602,100.0,92.66767523953605,1392,312.0,see description / source definition,Source economy / farming field; validate detailed semantics before advanced analysis.
+monsterkills,Economy / farming,int64,100.0,100.0,100.0,386,0,see description / source definition,Source economy / farming field; validate detailed semantics before advanced analysis.
+monsterkillsownjungle,Economy / farming,float64,1.714573877962683,1.714573877962683,1.714573877962683,154,0.0,see description / source definition,Source economy / farming field; validate detailed semantics before advanced analysis.
+monsterkillsenemyjungle,Economy / farming,float64,1.714573877962683,1.714573877962683,1.714573877962683,53,0.0,see description / source definition,Source economy / farming field; validate detailed semantics before advanced analysis.
+cspm,Economy / farming,float64,98.77794587325602,100.0,92.66767523953605,62937,8.2177,per minute,Source economy / farming field; validate detailed semantics before advanced analysis.
+goldat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,7595,2647.0,gold,gold at 10:00; difference metrics compare the corresponding opponent.
+xpat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,8455,4230.0,XP,xp at 10:00; difference metrics compare the corresponding opponent.
+csat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,301,57.0,see description / source definition,cs at 10:00; difference metrics compare the corresponding opponent.
+opp_goldat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,7595,4017.0,gold,Opponent gold at 10:00; difference metrics compare the corresponding opponent.
+opp_xpat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,8455,5185.0,XP,Opponent xp at 10:00; difference metrics compare the corresponding opponent.
+opp_csat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,301,85.0,see description / source definition,Opponent cs at 10:00; difference metrics compare the corresponding opponent.
+golddiffat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,6423,-1370.0,gold,golddiff at 10:00; difference metrics compare the corresponding opponent.
+xpdiffat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,5117,-955.0,XP,xpdiff at 10:00; difference metrics compare the corresponding opponent.
+csdiffat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,229,-28.0,see description / source definition,csdiff at 10:00; difference metrics compare the corresponding opponent.
+killsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,20,0.0,see description / source definition,kills at 10:00; difference metrics compare the corresponding opponent.
+assistsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,26,0.0,see description / source definition,assists at 10:00; difference metrics compare the corresponding opponent.
+deathsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,20,2.0,see description / source definition,deaths at 10:00; difference metrics compare the corresponding opponent.
+opp_killsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,20,2.0,see description / source definition,Opponent kills at 10:00; difference metrics compare the corresponding opponent.
+opp_assistsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,26,0.0,see description / source definition,Opponent assists at 10:00; difference metrics compare the corresponding opponent.
+opp_deathsat10,Checkpoint statistics,float64,98.23499747856783,98.23499747856783,98.23499747856783,20,0.0,see description / source definition,Opponent deaths at 10:00; difference metrics compare the corresponding opponent.
+goldat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,12253,5857.0,gold,gold at 15:00; difference metrics compare the corresponding opponent.
+xpat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,13834,8207.0,XP,xp at 15:00; difference metrics compare the corresponding opponent.
+csat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,443,109.0,see description / source definition,cs at 15:00; difference metrics compare the corresponding opponent.
+opp_goldat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,12253,7296.0,gold,Opponent gold at 15:00; difference metrics compare the corresponding opponent.
+opp_xpat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,13834,8799.0,XP,Opponent xp at 15:00; difference metrics compare the corresponding opponent.
+opp_csat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,443,123.0,see description / source definition,Opponent cs at 15:00; difference metrics compare the corresponding opponent.
+golddiffat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,10495,-1439.0,gold,golddiff at 15:00; difference metrics compare the corresponding opponent.
+xpdiffat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,9207,-592.0,XP,xpdiff at 15:00; difference metrics compare the corresponding opponent.
+csdiffat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,351,-14.0,see description / source definition,csdiff at 15:00; difference metrics compare the corresponding opponent.
+killsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,32,1.0,see description / source definition,kills at 15:00; difference metrics compare the corresponding opponent.
+assistsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,41,0.0,see description / source definition,assists at 15:00; difference metrics compare the corresponding opponent.
+deathsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,32,2.0,see description / source definition,deaths at 15:00; difference metrics compare the corresponding opponent.
+opp_killsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,32,5.0,see description / source definition,Opponent kills at 15:00; difference metrics compare the corresponding opponent.
+opp_assistsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,41,1.0,see description / source definition,Opponent assists at 15:00; difference metrics compare the corresponding opponent.
+opp_deathsat15,Checkpoint statistics,float64,98.24508320726173,98.24508320726173,98.24508320726173,32,2.0,see description / source definition,Opponent deaths at 15:00; difference metrics compare the corresponding opponent.
+goldat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,16574,8993.0,gold,gold at 20:00; difference metrics compare the corresponding opponent.
+xpat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,18620,12371.0,XP,xp at 20:00; difference metrics compare the corresponding opponent.
+csat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,584,147.0,see description / source definition,cs at 20:00; difference metrics compare the corresponding opponent.
+opp_goldat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,16574,9225.0,gold,Opponent gold at 20:00; difference metrics compare the corresponding opponent.
+opp_xpat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,18620,11307.0,XP,Opponent xp at 20:00; difference metrics compare the corresponding opponent.
+opp_csat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,584,158.0,see description / source definition,Opponent cs at 20:00; difference metrics compare the corresponding opponent.
+golddiffat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,14315,-232.0,gold,golddiff at 20:00; difference metrics compare the corresponding opponent.
+xpdiffat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,12807,1064.0,XP,xpdiff at 20:00; difference metrics compare the corresponding opponent.
+csdiffat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,435,-11.0,see description / source definition,csdiff at 20:00; difference metrics compare the corresponding opponent.
+killsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,43,5.0,see description / source definition,kills at 20:00; difference metrics compare the corresponding opponent.
+assistsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,62,1.0,see description / source definition,assists at 20:00; difference metrics compare the corresponding opponent.
+deathsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,43,3.0,see description / source definition,deaths at 20:00; difference metrics compare the corresponding opponent.
+opp_killsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,43,6.0,see description / source definition,Opponent kills at 20:00; difference metrics compare the corresponding opponent.
+opp_assistsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,62,4.0,see description / source definition,Opponent assists at 20:00; difference metrics compare the corresponding opponent.
+opp_deathsat20,Checkpoint statistics,float64,97.97276853252647,97.97276853252647,97.97276853252647,43,3.0,see description / source definition,Opponent deaths at 20:00; difference metrics compare the corresponding opponent.
+goldat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,19790,10372.0,gold,gold at 25:00; difference metrics compare the corresponding opponent.
+xpat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,23378,13489.0,XP,xp at 25:00; difference metrics compare the corresponding opponent.
+csat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,696,164.0,see description / source definition,cs at 25:00; difference metrics compare the corresponding opponent.
+opp_goldat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,19790,11475.0,gold,Opponent gold at 25:00; difference metrics compare the corresponding opponent.
+opp_xpat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,23378,14049.0,XP,Opponent xp at 25:00; difference metrics compare the corresponding opponent.
+opp_csat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,696,192.0,see description / source definition,Opponent cs at 25:00; difference metrics compare the corresponding opponent.
+golddiffat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,17163,-1103.0,gold,golddiff at 25:00; difference metrics compare the corresponding opponent.
+xpdiffat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,17733,-560.0,XP,xpdiff at 25:00; difference metrics compare the corresponding opponent.
+csdiffat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,441,-28.0,see description / source definition,csdiff at 25:00; difference metrics compare the corresponding opponent.
+killsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,45,6.0,see description / source definition,kills at 25:00; difference metrics compare the corresponding opponent.
+assistsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,84,1.0,see description / source definition,assists at 25:00; difference metrics compare the corresponding opponent.
+deathsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,45,4.0,see description / source definition,deaths at 25:00; difference metrics compare the corresponding opponent.
+opp_killsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,45,7.0,see description / source definition,Opponent kills at 25:00; difference metrics compare the corresponding opponent.
+opp_assistsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,84,4.0,see description / source definition,Opponent assists at 25:00; difference metrics compare the corresponding opponent.
+opp_deathsat25,Checkpoint statistics,float64,91.08421583459405,91.08421583459405,91.08421583459405,45,4.0,see description / source definition,Opponent deaths at 25:00; difference metrics compare the corresponding opponent.

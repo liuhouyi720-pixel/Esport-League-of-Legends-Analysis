@@ -1,0 +1,659 @@
+league,row_type,publisher_flag,reference_host,observed,observed_zero,structural_not_applicable,structural_checkpoint_not_reached,absent_from_schema,eligibility_unknown,unexpected_missing,observed_outside_domain,observed_checkpoint_not_reached,invalid_value,field,eligible_cells,available_pct,upstream_provider
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,wardsplaced,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,wardsplaced,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3500,0,0,0,0,0,0,0,0,0,wardsplaced,3500,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,700,0,0,0,0,0,0,0,0,0,wardsplaced,700,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,630,0,0,0,0,0,0,0,0,0,wardsplaced,630,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,126,0,0,0,0,0,0,0,0,0,wardsplaced,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2990,0,0,0,0,0,0,0,0,0,wardsplaced,2990,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,598,0,0,0,0,0,0,0,0,0,wardsplaced,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,400,0,0,0,0,0,0,0,0,0,wardsplaced,400,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,80,0,0,0,0,0,0,0,0,0,wardsplaced,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2580,0,0,0,0,0,0,0,0,0,wardsplaced,2580,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,516,0,0,0,0,0,0,0,0,0,wardsplaced,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,390,0,0,0,0,0,0,0,0,0,wardsplaced,390,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,320,0,0,0,0,0,0,0,0,0,wardsplaced,320,100.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,78,0,0,0,0,0,0,0,0,0,wardsplaced,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,64,0,0,0,0,0,0,0,0,0,wardsplaced,64,100.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,30,0,0,0,0,0,0,0,0,0,wardsplaced,30,100.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,6,0,0,0,0,0,0,0,0,0,wardsplaced,6,100.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,2128,2,0,0,0,0,0,0,0,0,wardsplaced,2130,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,426,0,0,0,0,0,0,0,0,0,wardsplaced,426,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,5240,0,0,0,0,0,0,0,0,0,wardsplaced,5240,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,1048,0,0,0,0,0,0,0,0,0,wardsplaced,1048,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2320,0,0,0,0,0,0,0,0,0,wardsplaced,2320,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,464,0,0,0,0,0,0,0,0,0,wardsplaced,464,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,450,0,0,0,0,0,0,0,0,0,wardsplaced,450,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,90,0,0,0,0,0,0,0,0,0,wardsplaced,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,2006,4,0,0,0,0,0,0,0,0,wardsplaced,2010,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,402,0,0,0,0,0,0,0,0,0,wardsplaced,402,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,2419,1,0,0,0,0,0,0,0,0,wardsplaced,2420,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,484,0,0,0,0,0,0,0,0,0,wardsplaced,484,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1739,1,0,0,0,0,0,0,0,0,wardsplaced,1740,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,348,0,0,0,0,0,0,0,0,0,wardsplaced,348,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,1030,0,0,0,0,0,0,0,0,0,wardsplaced,1030,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,206,0,0,0,0,0,0,0,0,0,wardsplaced,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,610,0,0,0,0,0,0,0,0,0,wardsplaced,610,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,122,0,0,0,0,0,0,0,0,0,wardsplaced,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,5760,0,0,0,0,0,0,0,0,0,wardsplaced,5760,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,1152,0,0,0,0,0,0,0,0,0,wardsplaced,1152,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,5020,0,0,0,0,0,0,0,0,0,wardsplaced,5020,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,1004,0,0,0,0,0,0,0,0,0,wardsplaced,1004,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4910,0,0,0,0,0,0,0,0,0,wardsplaced,4910,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,982,0,0,0,0,0,0,0,0,0,wardsplaced,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2950,0,0,0,0,0,0,0,0,0,wardsplaced,2950,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,590,0,0,0,0,0,0,0,0,0,wardsplaced,590,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2830,0,0,0,0,0,0,0,0,0,wardsplaced,2830,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,566,0,0,0,0,0,0,0,0,0,wardsplaced,566,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3830,0,0,0,0,0,0,0,0,0,wardsplaced,3830,100.0,unverified from this CSV
+LEC,team,complete,<reference unavailable>,766,0,0,0,0,0,0,0,0,0,wardsplaced,766,100.0,unverified from this CSV
+LES,player,complete,<reference unavailable>,2080,0,0,0,0,0,0,0,0,0,wardsplaced,2080,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,416,0,0,0,0,0,0,0,0,0,wardsplaced,416,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2750,0,0,0,0,0,0,0,0,0,wardsplaced,2750,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,550,0,0,0,0,0,0,0,0,0,wardsplaced,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2798,2,0,0,0,0,0,0,0,0,wardsplaced,2800,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,560,0,0,0,0,0,0,0,0,0,wardsplaced,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3627,3,0,0,0,0,0,0,0,0,wardsplaced,3630,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,726,0,0,0,0,0,0,0,0,0,wardsplaced,726,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5480,0,0,0,0,0,0,0,0,0,wardsplaced,5480,100.0,unverified from this CSV
+LPL,player,partial,lpl.qq.com,1260,0,0,0,0,0,0,0,0,0,wardsplaced,1260,100.0,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1096,0,0,0,0,0,0,0,0,0,wardsplaced,1096,100.0,unverified from this CSV
+LPL,team,partial,lpl.qq.com,252,0,0,0,0,0,0,0,0,0,wardsplaced,252,100.0,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1619,1,0,0,0,0,0,0,0,0,wardsplaced,1620,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,324,0,0,0,0,0,0,0,0,0,wardsplaced,324,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1760,0,0,0,0,0,0,0,0,0,wardsplaced,1760,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,352,0,0,0,0,0,0,0,0,0,wardsplaced,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1869,1,0,0,0,0,0,0,0,0,wardsplaced,1870,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,374,0,0,0,0,0,0,0,0,0,wardsplaced,374,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,710,0,0,0,0,0,0,0,0,0,wardsplaced,710,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,142,0,0,0,0,0,0,0,0,0,wardsplaced,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2810,0,0,0,0,0,0,0,0,0,wardsplaced,2810,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,562,0,0,0,0,0,0,0,0,0,wardsplaced,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1490,0,0,0,0,0,0,0,0,0,wardsplaced,1490,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,298,0,0,0,0,0,0,0,0,0,wardsplaced,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,2099,1,0,0,0,0,0,0,0,0,wardsplaced,2100,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,420,0,0,0,0,0,0,0,0,0,wardsplaced,420,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,860,0,0,0,0,0,0,0,0,0,wardsplaced,860,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,172,0,0,0,0,0,0,0,0,0,wardsplaced,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,3220,0,0,0,0,0,0,0,0,0,wardsplaced,3220,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,644,0,0,0,0,0,0,0,0,0,wardsplaced,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,2109,1,0,0,0,0,0,0,0,0,wardsplaced,2110,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,422,0,0,0,0,0,0,0,0,0,wardsplaced,422,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2607,3,0,0,0,0,0,0,0,0,wardsplaced,2610,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,522,0,0,0,0,0,0,0,0,0,wardsplaced,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,2190,0,0,0,0,0,0,0,0,0,wardsplaced,2190,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,438,0,0,0,0,0,0,0,0,0,wardsplaced,438,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1550,0,0,0,0,0,0,0,0,0,wardsplaced,1550,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,310,0,0,0,0,0,0,0,0,0,wardsplaced,310,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,940,0,0,0,0,0,0,0,0,0,wardsplaced,940,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,120,0,0,0,0,0,0,0,0,0,wardsplaced,120,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,188,0,0,0,0,0,0,0,0,0,wardsplaced,188,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,24,0,0,0,0,0,0,0,0,0,wardsplaced,24,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,60,0,0,0,0,0,0,0,0,0,wardsplaced,60,100.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,12,0,0,0,0,0,0,0,0,0,wardsplaced,12,100.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,850,0,0,0,0,0,0,0,0,0,wardsplaced,850,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,170,0,0,0,0,0,0,0,0,0,wardsplaced,170,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,wardskilled,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,wardskilled,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3421,79,0,0,0,0,0,0,0,0,wardskilled,3500,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,700,0,0,0,0,0,0,0,0,0,wardskilled,700,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,619,11,0,0,0,0,0,0,0,0,wardskilled,630,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,126,0,0,0,0,0,0,0,0,0,wardskilled,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2972,18,0,0,0,0,0,0,0,0,wardskilled,2990,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,598,0,0,0,0,0,0,0,0,0,wardskilled,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,396,4,0,0,0,0,0,0,0,0,wardskilled,400,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,80,0,0,0,0,0,0,0,0,0,wardskilled,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2557,23,0,0,0,0,0,0,0,0,wardskilled,2580,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,516,0,0,0,0,0,0,0,0,0,wardskilled,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,386,4,0,0,0,0,0,0,0,0,wardskilled,390,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,319,1,0,0,0,0,0,0,0,0,wardskilled,320,100.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,78,0,0,0,0,0,0,0,0,0,wardskilled,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,64,0,0,0,0,0,0,0,0,0,wardskilled,64,100.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,30,0,0,0,0,0,0,0,0,0,wardskilled,30,100.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,6,0,0,0,0,0,0,0,0,0,wardskilled,6,100.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,2046,84,0,0,0,0,0,0,0,0,wardskilled,2130,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,426,0,0,0,0,0,0,0,0,0,wardskilled,426,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,5149,91,0,0,0,0,0,0,0,0,wardskilled,5240,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,1048,0,0,0,0,0,0,0,0,0,wardskilled,1048,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2310,10,0,0,0,0,0,0,0,0,wardskilled,2320,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,464,0,0,0,0,0,0,0,0,0,wardskilled,464,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,444,6,0,0,0,0,0,0,0,0,wardskilled,450,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,90,0,0,0,0,0,0,0,0,0,wardskilled,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,1897,113,0,0,0,0,0,0,0,0,wardskilled,2010,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,402,0,0,0,0,0,0,0,0,0,wardskilled,402,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,2320,100,0,0,0,0,0,0,0,0,wardskilled,2420,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,484,0,0,0,0,0,0,0,0,0,wardskilled,484,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1623,117,0,0,0,0,0,0,0,0,wardskilled,1740,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,348,0,0,0,0,0,0,0,0,0,wardskilled,348,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,989,41,0,0,0,0,0,0,0,0,wardskilled,1030,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,206,0,0,0,0,0,0,0,0,0,wardskilled,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,607,3,0,0,0,0,0,0,0,0,wardskilled,610,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,122,0,0,0,0,0,0,0,0,0,wardskilled,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,5634,126,0,0,0,0,0,0,0,0,wardskilled,5760,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,1152,0,0,0,0,0,0,0,0,0,wardskilled,1152,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,5005,15,0,0,0,0,0,0,0,0,wardskilled,5020,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,1004,0,0,0,0,0,0,0,0,0,wardskilled,1004,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4891,19,0,0,0,0,0,0,0,0,wardskilled,4910,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,982,0,0,0,0,0,0,0,0,0,wardskilled,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2937,13,0,0,0,0,0,0,0,0,wardskilled,2950,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,590,0,0,0,0,0,0,0,0,0,wardskilled,590,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2810,20,0,0,0,0,0,0,0,0,wardskilled,2830,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,566,0,0,0,0,0,0,0,0,0,wardskilled,566,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3808,22,0,0,0,0,0,0,0,0,wardskilled,3830,100.0,unverified from this CSV
+LEC,team,complete,<reference unavailable>,766,0,0,0,0,0,0,0,0,0,wardskilled,766,100.0,unverified from this CSV
+LES,player,complete,<reference unavailable>,2035,45,0,0,0,0,0,0,0,0,wardskilled,2080,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,416,0,0,0,0,0,0,0,0,0,wardskilled,416,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2719,31,0,0,0,0,0,0,0,0,wardskilled,2750,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,550,0,0,0,0,0,0,0,0,0,wardskilled,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2704,96,0,0,0,0,0,0,0,0,wardskilled,2800,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,560,0,0,0,0,0,0,0,0,0,wardskilled,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3558,72,0,0,0,0,0,0,0,0,wardskilled,3630,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,726,0,0,0,0,0,0,0,0,0,wardskilled,726,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5452,28,0,0,0,0,0,0,0,0,wardskilled,5480,100.0,unverified from this CSV
+LPL,player,partial,lpl.qq.com,1256,4,0,0,0,0,0,0,0,0,wardskilled,1260,100.0,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1096,0,0,0,0,0,0,0,0,0,wardskilled,1096,100.0,unverified from this CSV
+LPL,team,partial,lpl.qq.com,252,0,0,0,0,0,0,0,0,0,wardskilled,252,100.0,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1543,77,0,0,0,0,0,0,0,0,wardskilled,1620,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,324,0,0,0,0,0,0,0,0,0,wardskilled,324,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1710,50,0,0,0,0,0,0,0,0,wardskilled,1760,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,352,0,0,0,0,0,0,0,0,0,wardskilled,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1840,30,0,0,0,0,0,0,0,0,wardskilled,1870,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,374,0,0,0,0,0,0,0,0,0,wardskilled,374,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,706,4,0,0,0,0,0,0,0,0,wardskilled,710,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,142,0,0,0,0,0,0,0,0,0,wardskilled,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2781,29,0,0,0,0,0,0,0,0,wardskilled,2810,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,562,0,0,0,0,0,0,0,0,0,wardskilled,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1465,25,0,0,0,0,0,0,0,0,wardskilled,1490,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,298,0,0,0,0,0,0,0,0,0,wardskilled,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,2036,64,0,0,0,0,0,0,0,0,wardskilled,2100,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,420,0,0,0,0,0,0,0,0,0,wardskilled,420,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,832,28,0,0,0,0,0,0,0,0,wardskilled,860,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,172,0,0,0,0,0,0,0,0,0,wardskilled,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,3178,42,0,0,0,0,0,0,0,0,wardskilled,3220,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,644,0,0,0,0,0,0,0,0,0,wardskilled,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,2066,44,0,0,0,0,0,0,0,0,wardskilled,2110,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,422,0,0,0,0,0,0,0,0,0,wardskilled,422,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2499,111,0,0,0,0,0,0,0,0,wardskilled,2610,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,522,0,0,0,0,0,0,0,0,0,wardskilled,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,2141,49,0,0,0,0,0,0,0,0,wardskilled,2190,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,438,0,0,0,0,0,0,0,0,0,wardskilled,438,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1530,20,0,0,0,0,0,0,0,0,wardskilled,1550,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,310,0,0,0,0,0,0,0,0,0,wardskilled,310,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,933,7,0,0,0,0,0,0,0,0,wardskilled,940,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,120,0,0,0,0,0,0,0,0,0,wardskilled,120,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,188,0,0,0,0,0,0,0,0,0,wardskilled,188,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,24,0,0,0,0,0,0,0,0,0,wardskilled,24,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,59,1,0,0,0,0,0,0,0,0,wardskilled,60,100.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,12,0,0,0,0,0,0,0,0,0,wardskilled,12,100.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,829,21,0,0,0,0,0,0,0,0,wardskilled,850,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,170,0,0,0,0,0,0,0,0,0,wardskilled,170,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,visionscore,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,visionscore,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3500,0,0,0,0,0,0,0,0,0,visionscore,3500,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,700,0,0,0,0,0,0,0,0,0,visionscore,700,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,630,0,0,0,0,0,0,0,0,0,visionscore,630,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,126,0,0,0,0,0,0,0,0,0,visionscore,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2990,0,0,0,0,0,0,0,0,0,visionscore,2990,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,598,0,0,0,0,0,0,0,0,0,visionscore,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,400,0,0,0,0,0,0,0,0,0,visionscore,400,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,80,0,0,0,0,0,0,0,0,0,visionscore,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2580,0,0,0,0,0,0,0,0,0,visionscore,2580,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,516,0,0,0,0,0,0,0,0,0,visionscore,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,390,0,0,0,0,0,0,0,0,0,visionscore,390,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,320,0,0,0,0,0,0,0,0,0,visionscore,320,100.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,78,0,0,0,0,0,0,0,0,0,visionscore,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,64,0,0,0,0,0,0,0,0,0,visionscore,64,100.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,30,0,0,0,0,0,0,0,0,0,visionscore,30,100.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,6,0,0,0,0,0,0,0,0,0,visionscore,6,100.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,2130,0,0,0,0,0,0,0,0,0,visionscore,2130,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,426,0,0,0,0,0,0,0,0,0,visionscore,426,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,5240,0,0,0,0,0,0,0,0,0,visionscore,5240,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,1048,0,0,0,0,0,0,0,0,0,visionscore,1048,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2320,0,0,0,0,0,0,0,0,0,visionscore,2320,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,464,0,0,0,0,0,0,0,0,0,visionscore,464,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,450,0,0,0,0,0,0,0,0,0,visionscore,450,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,90,0,0,0,0,0,0,0,0,0,visionscore,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,2010,0,0,0,0,0,0,0,0,0,visionscore,2010,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,402,0,0,0,0,0,0,0,0,0,visionscore,402,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,2420,0,0,0,0,0,0,0,0,0,visionscore,2420,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,484,0,0,0,0,0,0,0,0,0,visionscore,484,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1740,0,0,0,0,0,0,0,0,0,visionscore,1740,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,348,0,0,0,0,0,0,0,0,0,visionscore,348,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,1030,0,0,0,0,0,0,0,0,0,visionscore,1030,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,206,0,0,0,0,0,0,0,0,0,visionscore,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,610,0,0,0,0,0,0,0,0,0,visionscore,610,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,122,0,0,0,0,0,0,0,0,0,visionscore,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,5760,0,0,0,0,0,0,0,0,0,visionscore,5760,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,1152,0,0,0,0,0,0,0,0,0,visionscore,1152,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,5020,0,0,0,0,0,0,0,0,0,visionscore,5020,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,1004,0,0,0,0,0,0,0,0,0,visionscore,1004,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4910,0,0,0,0,0,0,0,0,0,visionscore,4910,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,982,0,0,0,0,0,0,0,0,0,visionscore,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2950,0,0,0,0,0,0,0,0,0,visionscore,2950,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,590,0,0,0,0,0,0,0,0,0,visionscore,590,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2830,0,0,0,0,0,0,0,0,0,visionscore,2830,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,566,0,0,0,0,0,0,0,0,0,visionscore,566,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3830,0,0,0,0,0,0,0,0,0,visionscore,3830,100.0,unverified from this CSV
+LEC,team,complete,<reference unavailable>,766,0,0,0,0,0,0,0,0,0,visionscore,766,100.0,unverified from this CSV
+LES,player,complete,<reference unavailable>,2080,0,0,0,0,0,0,0,0,0,visionscore,2080,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,416,0,0,0,0,0,0,0,0,0,visionscore,416,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2750,0,0,0,0,0,0,0,0,0,visionscore,2750,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,550,0,0,0,0,0,0,0,0,0,visionscore,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2800,0,0,0,0,0,0,0,0,0,visionscore,2800,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,560,0,0,0,0,0,0,0,0,0,visionscore,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3630,0,0,0,0,0,0,0,0,0,visionscore,3630,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,726,0,0,0,0,0,0,0,0,0,visionscore,726,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5480,0,0,0,0,0,0,0,0,0,visionscore,5480,100.0,unverified from this CSV
+LPL,player,partial,lpl.qq.com,1260,0,0,0,0,0,0,0,0,0,visionscore,1260,100.0,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1096,0,0,0,0,0,0,0,0,0,visionscore,1096,100.0,unverified from this CSV
+LPL,team,partial,lpl.qq.com,252,0,0,0,0,0,0,0,0,0,visionscore,252,100.0,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1620,0,0,0,0,0,0,0,0,0,visionscore,1620,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,324,0,0,0,0,0,0,0,0,0,visionscore,324,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1760,0,0,0,0,0,0,0,0,0,visionscore,1760,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,352,0,0,0,0,0,0,0,0,0,visionscore,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1870,0,0,0,0,0,0,0,0,0,visionscore,1870,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,374,0,0,0,0,0,0,0,0,0,visionscore,374,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,710,0,0,0,0,0,0,0,0,0,visionscore,710,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,142,0,0,0,0,0,0,0,0,0,visionscore,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2810,0,0,0,0,0,0,0,0,0,visionscore,2810,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,562,0,0,0,0,0,0,0,0,0,visionscore,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1490,0,0,0,0,0,0,0,0,0,visionscore,1490,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,298,0,0,0,0,0,0,0,0,0,visionscore,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,2100,0,0,0,0,0,0,0,0,0,visionscore,2100,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,420,0,0,0,0,0,0,0,0,0,visionscore,420,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,860,0,0,0,0,0,0,0,0,0,visionscore,860,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,172,0,0,0,0,0,0,0,0,0,visionscore,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,3220,0,0,0,0,0,0,0,0,0,visionscore,3220,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,644,0,0,0,0,0,0,0,0,0,visionscore,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,2110,0,0,0,0,0,0,0,0,0,visionscore,2110,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,422,0,0,0,0,0,0,0,0,0,visionscore,422,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2610,0,0,0,0,0,0,0,0,0,visionscore,2610,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,522,0,0,0,0,0,0,0,0,0,visionscore,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,2190,0,0,0,0,0,0,0,0,0,visionscore,2190,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,438,0,0,0,0,0,0,0,0,0,visionscore,438,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1550,0,0,0,0,0,0,0,0,0,visionscore,1550,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,310,0,0,0,0,0,0,0,0,0,visionscore,310,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,940,0,0,0,0,0,0,0,0,0,visionscore,940,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,120,0,0,0,0,0,0,0,0,0,visionscore,120,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,188,0,0,0,0,0,0,0,0,0,visionscore,188,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,24,0,0,0,0,0,0,0,0,0,visionscore,24,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,60,0,0,0,0,0,0,0,0,0,visionscore,60,100.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,12,0,0,0,0,0,0,0,0,0,visionscore,12,100.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,850,0,0,0,0,0,0,0,0,0,visionscore,850,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,170,0,0,0,0,0,0,0,0,0,visionscore,170,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,golddiffat15,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,golddiffat15,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3496,4,0,0,0,0,0,0,0,0,golddiffat15,3500,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,700,0,0,0,0,0,0,0,0,0,golddiffat15,700,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,630,0,0,0,0,0,0,0,0,0,golddiffat15,630,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,126,0,0,0,0,0,0,0,0,0,golddiffat15,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2988,2,0,0,0,0,0,0,0,0,golddiffat15,2990,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,598,0,0,0,0,0,0,0,0,0,golddiffat15,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,400,0,0,0,0,0,0,0,0,0,golddiffat15,400,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,80,0,0,0,0,0,0,0,0,0,golddiffat15,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2580,0,0,0,0,0,0,0,0,0,golddiffat15,2580,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,516,0,0,0,0,0,0,0,0,0,golddiffat15,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,390,0,0,0,0,0,0,0,0,0,golddiffat15,390,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,0,0,0,0,0,0,320,0,0,0,golddiffat15,320,0.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,78,0,0,0,0,0,0,0,0,0,golddiffat15,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,0,0,0,0,0,0,64,0,0,0,golddiffat15,64,0.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,0,0,0,0,0,0,30,0,0,0,golddiffat15,30,0.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,0,0,0,0,0,0,6,0,0,0,golddiffat15,6,0.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,2130,0,0,0,0,0,0,0,0,0,golddiffat15,2130,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,426,0,0,0,0,0,0,0,0,0,golddiffat15,426,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,5240,0,0,0,0,0,0,0,0,0,golddiffat15,5240,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,1046,2,0,0,0,0,0,0,0,0,golddiffat15,1048,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2320,0,0,0,0,0,0,0,0,0,golddiffat15,2320,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,464,0,0,0,0,0,0,0,0,0,golddiffat15,464,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,450,0,0,0,0,0,0,0,0,0,golddiffat15,450,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,90,0,0,0,0,0,0,0,0,0,golddiffat15,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,2010,0,0,0,0,0,0,0,0,0,golddiffat15,2010,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,402,0,0,0,0,0,0,0,0,0,golddiffat15,402,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,2420,0,0,0,0,0,0,0,0,0,golddiffat15,2420,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,484,0,0,0,0,0,0,0,0,0,golddiffat15,484,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1740,0,0,0,0,0,0,0,0,0,golddiffat15,1740,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,348,0,0,0,0,0,0,0,0,0,golddiffat15,348,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,1030,0,0,0,0,0,0,0,0,0,golddiffat15,1030,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,206,0,0,0,0,0,0,0,0,0,golddiffat15,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,606,4,0,0,0,0,0,0,0,0,golddiffat15,610,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,122,0,0,0,0,0,0,0,0,0,golddiffat15,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,5748,2,0,0,0,0,0,0,10,0,golddiffat15,5750,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,1150,0,0,0,0,0,0,0,2,0,golddiffat15,1150,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,5016,4,0,0,0,0,0,0,0,0,golddiffat15,5020,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,1004,0,0,0,0,0,0,0,0,0,golddiffat15,1004,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4908,2,0,0,0,0,0,0,0,0,golddiffat15,4910,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,982,0,0,0,0,0,0,0,0,0,golddiffat15,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2950,0,0,0,0,0,0,0,0,0,golddiffat15,2950,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,590,0,0,0,0,0,0,0,0,0,golddiffat15,590,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2828,2,0,0,0,0,0,0,0,0,golddiffat15,2830,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,566,0,0,0,0,0,0,0,0,0,golddiffat15,566,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3820,0,0,0,0,0,10,0,0,0,golddiffat15,3830,99.73890339425587,unverified from this CSV
+LEC,team,complete,<reference unavailable>,764,0,0,0,0,0,2,0,0,0,golddiffat15,766,99.73890339425587,unverified from this CSV
+LES,player,complete,<reference unavailable>,2076,4,0,0,0,0,0,0,0,0,golddiffat15,2080,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,416,0,0,0,0,0,0,0,0,0,golddiffat15,416,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2748,2,0,0,0,0,0,0,0,0,golddiffat15,2750,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,550,0,0,0,0,0,0,0,0,0,golddiffat15,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2800,0,0,0,0,0,0,0,0,0,golddiffat15,2800,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,560,0,0,0,0,0,0,0,0,0,golddiffat15,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3630,0,0,0,0,0,0,0,0,0,golddiffat15,3630,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,726,0,0,0,0,0,0,0,0,0,golddiffat15,726,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5354,6,0,0,0,0,120,0,0,0,golddiffat15,5480,97.8102189781022,unverified from this CSV
+LPL,player,partial,lpl.qq.com,60,0,0,0,0,0,1200,0,0,0,golddiffat15,1260,4.761904761904762,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1072,0,0,0,0,0,24,0,0,0,golddiffat15,1096,97.8102189781022,unverified from this CSV
+LPL,team,partial,lpl.qq.com,12,0,0,0,0,0,240,0,0,0,golddiffat15,252,4.761904761904762,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1620,0,0,0,0,0,0,0,0,0,golddiffat15,1620,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,324,0,0,0,0,0,0,0,0,0,golddiffat15,324,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1760,0,0,0,0,0,0,0,0,0,golddiffat15,1760,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,352,0,0,0,0,0,0,0,0,0,golddiffat15,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1870,0,0,0,0,0,0,0,0,0,golddiffat15,1870,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,374,0,0,0,0,0,0,0,0,0,golddiffat15,374,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,710,0,0,0,0,0,0,0,0,0,golddiffat15,710,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,142,0,0,0,0,0,0,0,0,0,golddiffat15,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2808,2,0,0,0,0,0,0,0,0,golddiffat15,2810,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,562,0,0,0,0,0,0,0,0,0,golddiffat15,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1486,4,0,0,0,0,0,0,0,0,golddiffat15,1490,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,298,0,0,0,0,0,0,0,0,0,golddiffat15,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,2100,0,0,0,0,0,0,0,0,0,golddiffat15,2100,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,420,0,0,0,0,0,0,0,0,0,golddiffat15,420,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,860,0,0,0,0,0,0,0,0,0,golddiffat15,860,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,172,0,0,0,0,0,0,0,0,0,golddiffat15,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,3220,0,0,0,0,0,0,0,0,0,golddiffat15,3220,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,644,0,0,0,0,0,0,0,0,0,golddiffat15,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,2110,0,0,0,0,0,0,0,0,0,golddiffat15,2110,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,422,0,0,0,0,0,0,0,0,0,golddiffat15,422,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2610,0,0,0,0,0,0,0,0,0,golddiffat15,2610,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,522,0,0,0,0,0,0,0,0,0,golddiffat15,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,2186,4,0,0,0,0,0,0,0,0,golddiffat15,2190,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,438,0,0,0,0,0,0,0,0,0,golddiffat15,438,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1548,2,0,0,0,0,0,0,0,0,golddiffat15,1550,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,310,0,0,0,0,0,0,0,0,0,golddiffat15,310,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,940,0,0,0,0,0,0,0,0,0,golddiffat15,940,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,120,0,0,0,0,0,0,0,0,0,golddiffat15,120,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,188,0,0,0,0,0,0,0,0,0,golddiffat15,188,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,24,0,0,0,0,0,0,0,0,0,golddiffat15,24,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,0,0,0,0,0,0,60,0,0,0,golddiffat15,60,0.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,0,0,0,0,0,0,12,0,0,0,golddiffat15,12,0.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,850,0,0,0,0,0,0,0,0,0,golddiffat15,850,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,170,0,0,0,0,0,0,0,0,0,golddiffat15,170,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,goldat20,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,goldat20,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3490,0,0,0,0,0,0,0,10,0,goldat20,3490,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,698,0,0,0,0,0,0,0,2,0,goldat20,698,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,630,0,0,0,0,0,0,0,0,0,goldat20,630,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,126,0,0,0,0,0,0,0,0,0,goldat20,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2990,0,0,0,0,0,0,0,0,0,goldat20,2990,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,598,0,0,0,0,0,0,0,0,0,goldat20,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,400,0,0,0,0,0,0,0,0,0,goldat20,400,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,80,0,0,0,0,0,0,0,0,0,goldat20,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2580,0,0,0,0,0,0,0,0,0,goldat20,2580,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,516,0,0,0,0,0,0,0,0,0,goldat20,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,390,0,0,0,0,0,0,0,0,0,goldat20,390,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,0,0,0,0,0,0,320,0,0,0,goldat20,320,0.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,78,0,0,0,0,0,0,0,0,0,goldat20,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,0,0,0,0,0,0,64,0,0,0,goldat20,64,0.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,0,0,0,0,0,0,30,0,0,0,goldat20,30,0.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,0,0,0,0,0,0,6,0,0,0,goldat20,6,0.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,2080,0,0,30,0,0,0,0,20,0,goldat20,2080,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,416,0,0,6,0,0,0,0,4,0,goldat20,416,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,5220,0,0,20,0,0,0,0,0,0,goldat20,5220,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,1044,0,0,4,0,0,0,0,0,0,goldat20,1044,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2310,0,0,0,0,0,0,0,10,0,goldat20,2310,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,462,0,0,0,0,0,0,0,2,0,goldat20,462,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,450,0,0,0,0,0,0,0,0,0,goldat20,450,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,90,0,0,0,0,0,0,0,0,0,goldat20,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,2010,0,0,0,0,0,0,0,0,0,goldat20,2010,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,402,0,0,0,0,0,0,0,0,0,goldat20,402,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,2370,0,0,20,0,0,0,0,30,0,goldat20,2370,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,474,0,0,4,0,0,0,0,6,0,goldat20,474,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1700,0,0,30,0,0,0,0,10,0,goldat20,1700,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,340,0,0,6,0,0,0,0,2,0,goldat20,340,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,1030,0,0,0,0,0,0,0,0,0,goldat20,1030,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,206,0,0,0,0,0,0,0,0,0,goldat20,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,610,0,0,0,0,0,0,0,0,0,goldat20,610,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,122,0,0,0,0,0,0,0,0,0,goldat20,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,5630,0,0,90,0,0,0,0,40,0,goldat20,5630,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,1126,0,0,18,0,0,0,0,8,0,goldat20,1126,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,5020,0,0,0,0,0,0,0,0,0,goldat20,5020,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,1004,0,0,0,0,0,0,0,0,0,goldat20,1004,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4910,0,0,0,0,0,0,0,0,0,goldat20,4910,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,982,0,0,0,0,0,0,0,0,0,goldat20,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2950,0,0,0,0,0,0,0,0,0,goldat20,2950,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,590,0,0,0,0,0,0,0,0,0,goldat20,590,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2830,0,0,0,0,0,0,0,0,0,goldat20,2830,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,566,0,0,0,0,0,0,0,0,0,goldat20,566,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3810,0,0,0,0,0,20,0,0,0,goldat20,3830,99.47780678851174,unverified from this CSV
+LEC,team,complete,<reference unavailable>,762,0,0,0,0,0,4,0,0,0,goldat20,766,99.47780678851174,unverified from this CSV
+LES,player,complete,<reference unavailable>,2070,0,0,0,0,0,0,0,10,0,goldat20,2070,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,414,0,0,0,0,0,0,0,2,0,goldat20,414,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2750,0,0,0,0,0,0,0,0,0,goldat20,2750,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,550,0,0,0,0,0,0,0,0,0,goldat20,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2800,0,0,0,0,0,0,0,0,0,goldat20,2800,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,560,0,0,0,0,0,0,0,0,0,goldat20,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3600,0,0,10,0,0,0,0,20,0,goldat20,3600,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,720,0,0,2,0,0,0,0,4,0,goldat20,720,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5350,0,0,0,0,0,120,0,10,0,goldat20,5470,97.80621572212065,unverified from this CSV
+LPL,player,partial,lpl.qq.com,60,0,0,0,0,0,1200,0,0,0,goldat20,1260,4.761904761904762,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1070,0,0,0,0,0,24,0,2,0,goldat20,1094,97.80621572212065,unverified from this CSV
+LPL,team,partial,lpl.qq.com,12,0,0,0,0,0,240,0,0,0,goldat20,252,4.761904761904762,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1600,0,0,20,0,0,0,0,0,0,goldat20,1600,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,320,0,0,4,0,0,0,0,0,0,goldat20,320,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1760,0,0,0,0,0,0,0,0,0,goldat20,1760,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,352,0,0,0,0,0,0,0,0,0,goldat20,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1860,0,0,0,0,0,0,0,10,0,goldat20,1860,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,372,0,0,0,0,0,0,0,2,0,goldat20,372,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,710,0,0,0,0,0,0,0,0,0,goldat20,710,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,142,0,0,0,0,0,0,0,0,0,goldat20,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2810,0,0,0,0,0,0,0,0,0,goldat20,2810,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,562,0,0,0,0,0,0,0,0,0,goldat20,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1490,0,0,0,0,0,0,0,0,0,goldat20,1490,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,298,0,0,0,0,0,0,0,0,0,goldat20,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,2070,0,0,20,0,0,0,0,10,0,goldat20,2070,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,414,0,0,4,0,0,0,0,2,0,goldat20,414,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,860,0,0,0,0,0,0,0,0,0,goldat20,860,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,172,0,0,0,0,0,0,0,0,0,goldat20,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,3220,0,0,0,0,0,0,0,0,0,goldat20,3220,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,644,0,0,0,0,0,0,0,0,0,goldat20,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,2100,0,0,10,0,0,0,0,0,0,goldat20,2100,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,420,0,0,2,0,0,0,0,0,0,goldat20,420,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2610,0,0,0,0,0,0,0,0,0,goldat20,2610,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,522,0,0,0,0,0,0,0,0,0,goldat20,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,2170,0,0,10,0,0,0,0,10,0,goldat20,2170,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,434,0,0,2,0,0,0,0,2,0,goldat20,434,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1550,0,0,0,0,0,0,0,0,0,goldat20,1550,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,310,0,0,0,0,0,0,0,0,0,goldat20,310,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,940,0,0,0,0,0,0,0,0,0,goldat20,940,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,120,0,0,0,0,0,0,0,0,0,goldat20,120,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,188,0,0,0,0,0,0,0,0,0,goldat20,188,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,24,0,0,0,0,0,0,0,0,0,goldat20,24,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,0,0,0,0,0,0,60,0,0,0,goldat20,60,0.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,0,0,0,0,0,0,12,0,0,0,goldat20,12,0.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,850,0,0,0,0,0,0,0,0,0,goldat20,850,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,170,0,0,0,0,0,0,0,0,0,goldat20,170,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,190,0,0,0,0,0,0,0,0,0,goldat25,190,100.0,unverified from this CSV
+AC,team,complete,<reference unavailable>,38,0,0,0,0,0,0,0,0,0,goldat25,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,3010,0,0,290,0,0,0,0,200,0,goldat25,3010,100.0,unverified from this CSV
+AL,team,complete,<reference unavailable>,602,0,0,58,0,0,0,0,40,0,goldat25,602,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,530,0,0,60,0,0,0,0,40,0,goldat25,530,100.0,unverified from this CSV
+AM,team,complete,<reference unavailable>,106,0,0,12,0,0,0,0,8,0,goldat25,106,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,2860,0,0,70,0,0,0,0,60,0,goldat25,2860,100.0,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,572,0,0,14,0,0,0,0,12,0,goldat25,572,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,350,0,0,20,0,0,0,0,30,0,goldat25,350,100.0,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,70,0,0,4,0,0,0,0,6,0,goldat25,70,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,2390,0,0,100,0,0,0,0,90,0,goldat25,2390,100.0,unverified from this CSV
+CD,team,complete,<reference unavailable>,478,0,0,20,0,0,0,0,18,0,goldat25,478,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,320,0,0,30,0,0,0,0,40,0,goldat25,320,100.0,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,0,0,0,30,0,0,290,0,0,0,goldat25,290,0.0,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,64,0,0,6,0,0,0,0,8,0,goldat25,64,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,0,0,0,6,0,0,58,0,0,0,goldat25,58,0.0,unverified from this CSV
+DCup,player,partial,lpl.qq.com,0,0,0,0,0,0,30,0,0,0,goldat25,30,0.0,unverified from this CSV
+DCup,team,partial,lpl.qq.com,0,0,0,0,0,0,6,0,0,0,goldat25,6,0.0,unverified from this CSV
+EBL,player,complete,<reference unavailable>,1670,0,0,340,0,0,0,0,120,0,goldat25,1670,100.0,unverified from this CSV
+EBL,team,complete,<reference unavailable>,334,0,0,68,0,0,0,0,24,0,goldat25,334,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,4460,0,0,520,0,0,0,0,260,0,goldat25,4460,100.0,unverified from this CSV
+EM,team,complete,<reference unavailable>,892,0,0,104,0,0,0,0,52,0,goldat25,892,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,2180,0,0,70,0,0,0,0,70,0,goldat25,2180,100.0,unverified from this CSV
+EWC,team,complete,<reference unavailable>,436,0,0,14,0,0,0,0,14,0,goldat25,436,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,420,0,0,20,0,0,0,0,10,0,goldat25,420,100.0,unverified from this CSV
+FST,team,complete,<reference unavailable>,84,0,0,4,0,0,0,0,2,0,goldat25,84,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,1780,0,0,130,0,0,0,0,100,0,goldat25,1780,100.0,unverified from this CSV
+HC,team,complete,<reference unavailable>,356,0,0,26,0,0,0,0,20,0,goldat25,356,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,1880,0,0,380,0,0,0,0,160,0,goldat25,1880,100.0,unverified from this CSV
+HLL,team,complete,<reference unavailable>,376,0,0,76,0,0,0,0,32,0,goldat25,376,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,1190,0,0,420,0,0,0,0,130,0,goldat25,1190,100.0,unverified from this CSV
+HM,team,complete,<reference unavailable>,238,0,0,84,0,0,0,0,26,0,goldat25,238,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,850,0,0,90,0,0,0,0,90,0,goldat25,850,100.0,unverified from this CSV
+HW,team,complete,<reference unavailable>,170,0,0,18,0,0,0,0,18,0,goldat25,170,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,550,0,0,30,0,0,0,0,30,0,goldat25,550,100.0,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,110,0,0,6,0,0,0,0,6,0,goldat25,110,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,4310,0,0,950,0,0,0,0,500,0,goldat25,4310,100.0,unverified from this CSV
+LAS,team,complete,<reference unavailable>,862,0,0,190,0,0,0,0,100,0,goldat25,862,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,4730,0,0,110,0,0,0,0,180,0,goldat25,4730,100.0,unverified from this CSV
+LCK,team,complete,<reference unavailable>,946,0,0,22,0,0,0,0,36,0,goldat25,946,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,4520,0,0,200,0,0,0,0,190,0,goldat25,4520,100.0,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,904,0,0,40,0,0,0,0,38,0,goldat25,904,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,2820,0,0,70,0,0,0,0,60,0,goldat25,2820,100.0,unverified from this CSV
+LCP,team,complete,<reference unavailable>,564,0,0,14,0,0,0,0,12,0,goldat25,564,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,2590,0,0,100,0,0,0,0,140,0,goldat25,2590,100.0,unverified from this CSV
+LCS,team,complete,<reference unavailable>,518,0,0,20,0,0,0,0,28,0,goldat25,518,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,3690,0,0,40,0,0,20,0,80,0,goldat25,3710,99.46091644204851,unverified from this CSV
+LEC,team,complete,<reference unavailable>,738,0,0,8,0,0,4,0,16,0,goldat25,742,99.46091644204851,unverified from this CSV
+LES,player,complete,<reference unavailable>,1830,0,0,180,0,0,0,0,70,0,goldat25,1830,100.0,unverified from this CSV
+LES,team,complete,<reference unavailable>,366,0,0,36,0,0,0,0,14,0,goldat25,366,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,2490,0,0,170,0,0,0,0,90,0,goldat25,2490,100.0,unverified from this CSV
+LFL,team,complete,<reference unavailable>,498,0,0,34,0,0,0,0,18,0,goldat25,498,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,2490,0,0,230,0,0,0,0,80,0,goldat25,2490,100.0,unverified from this CSV
+LIT,team,complete,<reference unavailable>,498,0,0,46,0,0,0,0,16,0,goldat25,498,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,3110,0,0,340,0,0,0,0,180,0,goldat25,3110,100.0,unverified from this CSV
+LJL,team,complete,<reference unavailable>,622,0,0,68,0,0,0,0,36,0,goldat25,622,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,5110,0,0,110,0,0,110,0,150,0,goldat25,5220,97.89272030651341,unverified from this CSV
+LPL,player,partial,lpl.qq.com,30,0,0,50,0,0,1150,0,30,0,goldat25,1180,2.5423728813559325,unverified from this CSV
+LPL,team,complete,lpl.qq.com,1022,0,0,22,0,0,22,0,30,0,goldat25,1044,97.89272030651341,unverified from this CSV
+LPL,team,partial,lpl.qq.com,6,0,0,10,0,0,230,0,6,0,goldat25,236,2.5423728813559325,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,1230,0,0,250,0,0,0,0,140,0,goldat25,1230,100.0,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,246,0,0,50,0,0,0,0,28,0,goldat25,246,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,1470,0,0,180,0,0,0,0,110,0,goldat25,1470,100.0,unverified from this CSV
+LRN,team,complete,<reference unavailable>,294,0,0,36,0,0,0,0,22,0,goldat25,294,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,1690,0,0,130,0,0,0,0,50,0,goldat25,1690,100.0,unverified from this CSV
+LRS,team,complete,<reference unavailable>,338,0,0,26,0,0,0,0,10,0,goldat25,338,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,680,0,0,20,0,0,0,0,10,0,goldat25,680,100.0,unverified from this CSV
+MSI,team,complete,<reference unavailable>,136,0,0,4,0,0,0,0,2,0,goldat25,136,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,2670,0,0,60,0,0,0,0,80,0,goldat25,2670,100.0,unverified from this CSV
+NACL,team,complete,<reference unavailable>,534,0,0,12,0,0,0,0,16,0,goldat25,534,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,1390,0,0,60,0,0,0,0,40,0,goldat25,1390,100.0,unverified from this CSV
+NL,team,complete,<reference unavailable>,278,0,0,12,0,0,0,0,8,0,goldat25,278,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,1740,0,0,260,0,0,0,0,100,0,goldat25,1740,100.0,unverified from this CSV
+NLC,team,complete,<reference unavailable>,348,0,0,52,0,0,0,0,20,0,goldat25,348,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,660,0,0,130,0,0,0,0,70,0,goldat25,660,100.0,unverified from this CSV
+PCS,team,complete,<reference unavailable>,132,0,0,26,0,0,0,0,14,0,goldat25,132,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,2960,0,0,140,0,0,0,0,120,0,goldat25,2960,100.0,unverified from this CSV
+PRM,team,complete,<reference unavailable>,592,0,0,28,0,0,0,0,24,0,goldat25,592,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,1930,0,0,60,0,0,0,0,120,0,goldat25,1930,100.0,unverified from this CSV
+RL,team,complete,<reference unavailable>,386,0,0,12,0,0,0,0,24,0,goldat25,386,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,2280,0,0,210,0,0,0,0,120,0,goldat25,2280,100.0,unverified from this CSV
+ROL,team,complete,<reference unavailable>,456,0,0,42,0,0,0,0,24,0,goldat25,456,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,1890,0,0,170,0,0,0,0,130,0,goldat25,1890,100.0,unverified from this CSV
+TCL,team,complete,<reference unavailable>,378,0,0,34,0,0,0,0,26,0,goldat25,378,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,1340,0,0,150,0,0,0,0,60,0,goldat25,1340,100.0,unverified from this CSV
+VCS,team,complete,<reference unavailable>,268,0,0,30,0,0,0,0,12,0,goldat25,268,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,910,0,0,20,0,0,0,0,10,0,goldat25,910,100.0,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,110,0,0,10,0,0,0,0,0,0,goldat25,110,100.0,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,182,0,0,4,0,0,0,0,2,0,goldat25,182,100.0,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,22,0,0,2,0,0,0,0,0,0,goldat25,22,100.0,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,0,0,0,10,0,0,50,0,0,0,goldat25,50,0.0,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,0,0,0,2,0,0,10,0,0,0,goldat25,10,0.0,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,600,0,0,180,0,0,0,0,70,0,goldat25,600,100.0,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,120,0,0,36,0,0,0,0,14,0,goldat25,120,100.0,unverified from this CSV
+AC,player,complete,<reference unavailable>,0,0,190,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+AC,team,complete,<reference unavailable>,0,38,0,0,0,0,0,0,0,0,atakhans,38,100.0,unverified from this CSV
+AL,player,complete,<reference unavailable>,0,0,3500,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+AL,team,complete,<reference unavailable>,0,700,0,0,0,0,0,0,0,0,atakhans,700,100.0,unverified from this CSV
+AM,player,complete,<reference unavailable>,0,0,630,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+AM,team,complete,<reference unavailable>,0,126,0,0,0,0,0,0,0,0,atakhans,126,100.0,unverified from this CSV
+CBLOL,player,complete,<reference unavailable>,0,0,2990,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+CBLOL,team,complete,<reference unavailable>,0,598,0,0,0,0,0,0,0,0,atakhans,598,100.0,unverified from this CSV
+CCWS,player,complete,<reference unavailable>,0,0,400,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+CCWS,team,complete,<reference unavailable>,0,80,0,0,0,0,0,0,0,0,atakhans,80,100.0,unverified from this CSV
+CD,player,complete,<reference unavailable>,0,0,2580,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+CD,team,complete,<reference unavailable>,0,516,0,0,0,0,0,0,0,0,atakhans,516,100.0,unverified from this CSV
+DCGI,player,complete,<reference unavailable>,0,0,390,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+DCGI,player,partial,lpl.qq.com,0,0,320,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+DCGI,team,complete,<reference unavailable>,0,78,0,0,0,0,0,0,0,0,atakhans,78,100.0,unverified from this CSV
+DCGI,team,partial,lpl.qq.com,0,0,0,0,0,64,0,0,0,0,atakhans,0,,unverified from this CSV
+DCup,player,partial,lpl.qq.com,0,0,30,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+DCup,team,partial,lpl.qq.com,0,0,0,0,0,6,0,0,0,0,atakhans,0,,unverified from this CSV
+EBL,player,complete,<reference unavailable>,0,0,2130,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+EBL,team,complete,<reference unavailable>,0,426,0,0,0,0,0,0,0,0,atakhans,426,100.0,unverified from this CSV
+EM,player,complete,<reference unavailable>,0,0,5240,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+EM,team,complete,<reference unavailable>,0,996,0,0,0,52,0,0,0,0,atakhans,996,100.0,unverified from this CSV
+EWC,player,complete,<reference unavailable>,0,0,2320,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+EWC,team,complete,<reference unavailable>,0,464,0,0,0,0,0,0,0,0,atakhans,464,100.0,unverified from this CSV
+FST,player,complete,<reference unavailable>,0,0,450,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+FST,team,complete,<reference unavailable>,0,90,0,0,0,0,0,0,0,0,atakhans,90,100.0,unverified from this CSV
+HC,player,complete,<reference unavailable>,0,0,2010,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+HC,team,complete,<reference unavailable>,0,390,0,0,0,12,0,0,0,0,atakhans,390,100.0,unverified from this CSV
+HLL,player,complete,<reference unavailable>,0,0,2420,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+HLL,team,complete,<reference unavailable>,0,470,0,0,0,14,0,0,0,0,atakhans,470,100.0,unverified from this CSV
+HM,player,complete,<reference unavailable>,0,0,1740,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+HM,team,complete,<reference unavailable>,0,348,0,0,0,0,0,0,0,0,atakhans,348,100.0,unverified from this CSV
+HW,player,complete,<reference unavailable>,0,0,1030,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+HW,team,complete,<reference unavailable>,0,206,0,0,0,0,0,0,0,0,atakhans,206,100.0,unverified from this CSV
+KeSPA Cup,player,complete,<reference unavailable>,0,0,610,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+KeSPA Cup,team,complete,<reference unavailable>,0,122,0,0,0,0,0,0,0,0,atakhans,122,100.0,unverified from this CSV
+LAS,player,complete,<reference unavailable>,0,0,5760,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LAS,team,complete,<reference unavailable>,0,830,0,0,0,322,0,0,0,0,atakhans,830,100.0,unverified from this CSV
+LCK,player,complete,<reference unavailable>,0,0,5020,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LCK,team,complete,<reference unavailable>,0,244,0,0,0,760,0,0,0,0,atakhans,244,100.0,unverified from this CSV
+LCKC,player,complete,<reference unavailable>,0,0,4910,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LCKC,team,complete,<reference unavailable>,0,982,0,0,0,0,0,0,0,0,atakhans,982,100.0,unverified from this CSV
+LCP,player,complete,<reference unavailable>,0,0,2950,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LCP,team,complete,<reference unavailable>,0,566,0,0,0,24,0,0,0,0,atakhans,566,100.0,unverified from this CSV
+LCS,player,complete,<reference unavailable>,0,0,2830,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LCS,team,complete,<reference unavailable>,0,212,0,0,0,354,0,0,0,0,atakhans,212,100.0,unverified from this CSV
+LEC,player,complete,<reference unavailable>,0,0,3830,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LEC,team,complete,<reference unavailable>,0,182,0,0,0,584,0,0,0,0,atakhans,182,100.0,unverified from this CSV
+LES,player,complete,<reference unavailable>,0,0,2080,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LES,team,complete,<reference unavailable>,0,416,0,0,0,0,0,0,0,0,atakhans,416,100.0,unverified from this CSV
+LFL,player,complete,<reference unavailable>,0,0,2750,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LFL,team,complete,<reference unavailable>,0,550,0,0,0,0,0,0,0,0,atakhans,550,100.0,unverified from this CSV
+LIT,player,complete,<reference unavailable>,0,0,2800,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LIT,team,complete,<reference unavailable>,0,560,0,0,0,0,0,0,0,0,atakhans,560,100.0,unverified from this CSV
+LJL,player,complete,<reference unavailable>,0,0,3630,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LJL,team,complete,<reference unavailable>,0,726,0,0,0,0,0,0,0,0,atakhans,726,100.0,unverified from this CSV
+LPL,player,complete,lpl.qq.com,0,0,5480,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LPL,player,partial,lpl.qq.com,0,0,1260,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LPL,team,complete,lpl.qq.com,0,0,0,0,0,1096,0,0,0,0,atakhans,0,,unverified from this CSV
+LPL,team,partial,lpl.qq.com,0,0,0,0,0,252,0,0,0,0,atakhans,0,,unverified from this CSV
+LPLOL,player,complete,<reference unavailable>,0,0,1620,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LPLOL,team,complete,<reference unavailable>,0,324,0,0,0,0,0,0,0,0,atakhans,324,100.0,unverified from this CSV
+LRN,player,complete,<reference unavailable>,0,0,1760,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LRN,team,complete,<reference unavailable>,0,352,0,0,0,0,0,0,0,0,atakhans,352,100.0,unverified from this CSV
+LRS,player,complete,<reference unavailable>,0,0,1870,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+LRS,team,complete,<reference unavailable>,0,374,0,0,0,0,0,0,0,0,atakhans,374,100.0,unverified from this CSV
+MSI,player,complete,<reference unavailable>,0,0,710,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+MSI,team,complete,<reference unavailable>,0,142,0,0,0,0,0,0,0,0,atakhans,142,100.0,unverified from this CSV
+NACL,player,complete,<reference unavailable>,0,0,2810,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+NACL,team,complete,<reference unavailable>,0,562,0,0,0,0,0,0,0,0,atakhans,562,100.0,unverified from this CSV
+NL,player,complete,<reference unavailable>,0,0,1490,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+NL,team,complete,<reference unavailable>,0,298,0,0,0,0,0,0,0,0,atakhans,298,100.0,unverified from this CSV
+NLC,player,complete,<reference unavailable>,0,0,2100,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+NLC,team,complete,<reference unavailable>,0,420,0,0,0,0,0,0,0,0,atakhans,420,100.0,unverified from this CSV
+PCS,player,complete,<reference unavailable>,0,0,860,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+PCS,team,complete,<reference unavailable>,0,172,0,0,0,0,0,0,0,0,atakhans,172,100.0,unverified from this CSV
+PRM,player,complete,<reference unavailable>,0,0,3220,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+PRM,team,complete,<reference unavailable>,0,644,0,0,0,0,0,0,0,0,atakhans,644,100.0,unverified from this CSV
+RL,player,complete,<reference unavailable>,0,0,2110,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+RL,team,complete,<reference unavailable>,0,422,0,0,0,0,0,0,0,0,atakhans,422,100.0,unverified from this CSV
+ROL,player,complete,<reference unavailable>,0,0,2610,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+ROL,team,complete,<reference unavailable>,0,522,0,0,0,0,0,0,0,0,atakhans,522,100.0,unverified from this CSV
+TCL,player,complete,<reference unavailable>,0,0,2190,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+TCL,team,complete,<reference unavailable>,0,416,0,0,0,22,0,0,0,0,atakhans,416,100.0,unverified from this CSV
+VCS,player,complete,<reference unavailable>,0,0,1550,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+VCS,team,complete,<reference unavailable>,0,304,0,0,0,6,0,0,0,0,atakhans,304,100.0,unverified from this CSV
+WLDs,player,complete,<reference unavailable>,0,0,940,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+WLDs,player,complete,lpl.qq.com,0,0,120,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+WLDs,team,complete,<reference unavailable>,0,0,0,0,0,188,0,0,0,0,atakhans,0,,unverified from this CSV
+WLDs,team,complete,lpl.qq.com,0,0,0,0,0,24,0,0,0,0,atakhans,0,,unverified from this CSV
+WLRQ,player,partial,lpl.qq.com,0,0,60,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+WLRQ,team,partial,lpl.qq.com,0,0,0,0,0,12,0,0,0,0,atakhans,0,,unverified from this CSV
+WSCI,player,complete,<reference unavailable>,0,0,850,0,0,0,0,0,0,0,atakhans,0,,unverified from this CSV
+WSCI,team,complete,<reference unavailable>,0,170,0,0,0,0,0,0,0,0,atakhans,170,100.0,unverified from this CSV

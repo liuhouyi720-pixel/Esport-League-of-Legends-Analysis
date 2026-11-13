@@ -1,0 +1,13 @@
+check,affected,unit
+Rows with missing game/participant key,0,rows
+"Duplicate (gameid, participantid) records beyond first",0,rows
+Games with unexpected row grain,0,games
+Games with conflicting metadata,0,games
+Games without one win and one loss,0,games
+Player results disagreeing with team result,0,player rows
+Nonpositive or missing game duration,0,team rows
+Unparseable source dates,0,rows
+Team kills differ from player sum,0,team rows
+Team deaths differ from player sum,0,team rows
+Team gold differs from player sum (tolerance 1 gold),0,team rows
+DPM differs from damage / minutes (tolerance 0.001),0,team rows

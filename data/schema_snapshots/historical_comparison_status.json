@@ -1,0 +1,6 @@
+{
+  "attempted_season": 2024,
+  "status": "unavailable_google_drive_download_quota",
+  "comparison": "Historical header comparison not performed. The current schema is pinned locally, not presented as a multi-year validation.",
+  "current_reference_sha256": "528c0f20fb940319076270051763cca5b55e777b8f3343ef988c789c8accd239"
+}

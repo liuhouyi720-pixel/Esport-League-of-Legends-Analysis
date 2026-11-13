@@ -1,0 +1,20 @@
+entity,issue,name_or_id,distinct_values,values
+player,same_name_multiple_ids,Ace,2,oe:player:73933848061d300bbe7293d9b38a2d4; oe:player:83352405b08076a5c04364b203e709e
+player,same_name_multiple_ids,Bruce,2,oe:player:4be90ed9c41356ec34247e49aec714a; oe:player:841a33657841e55eb6b68b86de53af9
+player,same_name_multiple_ids,Dino,2,oe:player:2597d961abe7a1cd0b4ae9c393ea9f9; oe:player:48624ff839d6aa08817bf4c14a69e8a
+player,same_name_multiple_ids,Feng,2,oe:player:4d10f9a1263936ae396ac674a6ed8e9; oe:player:e9a0da5ca2d009aeedf5afcfccffde5
+player,same_name_multiple_ids,Invincible,2,oe:player:253d2567e69eb6a57a25fb5e9e27d30; oe:player:284a8e6b9dbbc68d6bfc8e1e87d42a4
+player,same_name_multiple_ids,Kratos,2,oe:player:75019a36fdf85666fbd9396ae4fc7ec; oe:player:fa6ab005227d25bf19d02ca58f00cab
+player,same_name_multiple_ids,Lelouch,2,oe:player:204e7ba78de103e95c6baa5b08f0816; oe:player:b50c8d6047685ab14db52fcd58f59d6
+player,same_name_multiple_ids,Luke,3,oe:player:974f192f2c1c07bde25f84f9f573c43; oe:player:af746698d2b4c0d11ac9667c2934c1b; oe:player:ff71e751aa5f67010f80aad602ecdfe
+player,same_name_multiple_ids,Monster,2,oe:player:4ed6ac4bf9f810e4709b610928b152e; oe:player:cbcf5e328917da14dec3694653e03e7
+player,same_name_multiple_ids,Rin,2,oe:player:3cde1e0c1c7539590dedda74a02f650; oe:player:ee4894bcff1cfaa4ffbf71b7b8d8921
+player,same_name_multiple_ids,Ryuk,2,oe:player:36d61387b87cbabd4c833a490f25a55; oe:player:93b69f4ff0f5b0f31530641cfad186f
+player,same_name_multiple_ids,Saber,2,oe:player:5c168b7c27f077ce0492be203ffb625; oe:player:da42b9f18367dc6c30476ec117c29de
+player,same_name_multiple_ids,Shadow,2,oe:player:115cbb13ff7ef811c05d6e95bf224c2; oe:player:61550406a79cc3842b43e5c65abc2ea
+player,same_name_multiple_ids,Shanks,2,oe:player:0e2f0d3ded24c190dd6a4b3d6f89f04; oe:player:f2eceb80dcd621eabdb3c1f4ae9e393
+player,same_name_multiple_ids,Valiant,2,oe:player:6add4da3b26a48ccca716c112c3ff48; oe:player:dd911153c537eef47206256b970e8a4
+player,same_name_multiple_ids,Virgo,2,oe:player:35553757da09299fe5bf3576c641b10; oe:player:68be70e9f18cd643f618ed0c8e3086e
+player,same_name_multiple_ids,White,2,oe:player:41ea0ed55fe655184c9073085b85eea; oe:player:7b5ade6eb456e88434ec9d90eb1ec43
+player,same_name_multiple_ids,advance,2,oe:player:0a86dddc699c7e6fe7f1e43153a5cbe; oe:player:ec32405553073660d757af1100d45b7
+team,same_name_multiple_ids,ZEN Esports,2,oe:team:2b8caed4d341367e34ba037b911adb0; oe:team:bd46d8b1a045d8e632938b985b89dd2

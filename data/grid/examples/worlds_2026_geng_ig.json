@@ -1,0 +1,14 @@
+{
+  "slug": "worlds_2026_geng_ig",
+  "label": "Worlds 2026 semifinal: Gen.G vs Invictus Gaming",
+  "teams": ["Gen.G", "Invictus Gaming"],
+  "team_aliases": [["Gen.G", "Gen.G Esports", "GEN"], ["Invictus Gaming", "IG", "iG"]],
+  "date_window_utc": {"gte": "2026-11-06T00:00:00Z", "lte": "2026-11-09T00:00:00Z"},
+  "format_reference": "BO5",
+  "expected_played_games_reference": 3,
+  "result_reference": "Gen.G 3-0 Invictus Gaming",
+  "official_schedule_url": "https://lolesports.com/en-US/leagues/worlds,vcs",
+  "oracle_game_ids_reference": ["LOLTMNT02_487213", "LOLTMNT02_488209", "LOLTMNT02_487214"],
+  "grid_series_id": null,
+  "note": "Selection reference only, not a downloaded GRID response. Resolve the GRID series ID using Central Data. The October 23 Swiss BO1 between these teams is a different series. BO5 is a maximum of five games; this series finished after three. Oracle/Riot game IDs must not be sent as GRID series IDs."
+}

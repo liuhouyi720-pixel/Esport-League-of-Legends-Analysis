@@ -1,0 +1,25 @@
+check,affected,unit,severity
+Required entity columns absent,0,columns,blocker
+Rows with missing local join keys,0,rows,blocker
+Rows with missing participant slot,0,rows,blocker
+Duplicate game/participant key records,0,rows,blocker
+Unknown role labels,0,rows,blocker
+Unknown side labels,0,rows,blocker
+Games with conflicting year,0,games,blocker
+Games with conflicting league,0,games,blocker
+Games with conflicting date,0,games,blocker
+Games with conflicting patch,0,games,blocker
+Games with conflicting gamelength,0,games,blocker
+Ambiguous team-summary join keys,0,team rows,blocker
+Games without twelve source rows,0,games,blocker
+Games without two team summaries,0,games,blocker
+Team rows with invalid outcomes,0,team rows,blocker
+Games without exactly one recorded winner,0,games,blocker
+Rows without a positive finite duration,0,rows,blocker
+Game sides without one player per role,0,game sides,blocker
+Players without an unambiguous team summary,0,player rows,blocker
+Player/team persistent ID conflicts within game,0,player rows,blocker
+Player/team name conflicts within game,0,player rows,review
+Player/team result conflicts within game,0,player rows,blocker
+Players missing persistent player ID,1913,player rows,limitation
+Team rows missing persistent team ID,552,team rows,limitation

@@ -1,0 +1,32 @@
+{
+  "publisher": "Oracle's Elixir / Tim Sevenhuysen",
+  "downloads_page": "https://oracleselixir.com/tools/downloads",
+  "folder_url": "https://drive.google.com/drive/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH",
+  "file_url": "https://drive.google.com/file/d/1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm/view",
+  "download_url": "https://drive.usercontent.google.com/download?id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm&export=download&confirm=t",
+  "resolved_download_url": "https://drive.usercontent.google.com/download?id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm&export=download&confirm=t",
+  "filename": "2026_LoL_esports_match_data_from_OraclesElixir.csv",
+  "season": 2026,
+  "available_seasons": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "retrieved_at_utc": "2026-11-13T04:40:19.457522+00:00",
+  "source_last_modified_http": "Fri, 13 Nov 2026 02:04:59 GMT",
+  "bytes": 79554617,
+  "sha256": "528c0f20fb940319076270051763cca5b55e777b8f3343ef988c789c8accd239",
+  "rows": 118980,
+  "columns": 165,
+  "scope_note": "Newest season in the publisher's public folder at retrieval; an evolving snapshot, not a guarantee of complete competition coverage."
+}

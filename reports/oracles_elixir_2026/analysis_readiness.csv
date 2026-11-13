@@ -1,0 +1,6 @@
+analysis,grain,required_fields,source_rows,usable_rows,excluded_rows,games_with_both_sides_usable
+duration,team,"gamelength, result",19830,19830,0,9915
+vision,team,"wardsplaced, wardskilled, visionscore",19830,19830,0,9915
+gold_at_15,team,"goldat15, golddiffat15",19830,19480,350,9740
+player_resources,player,"damageshare, earnedgoldshare, dpm, cspm",99150,99150,0,
+player_history_joins,player,"playerid, teamid",99150,95642,3508,
