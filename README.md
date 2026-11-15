@@ -7,6 +7,49 @@ patterns in Oracle's Elixir's newest available yearly match-data export.
 - [Read the HTML version](reports/oracles_elixir_2026/notebook.html)
 - [Read the calculated findings](reports/oracles_elixir_2026/findings.md)
 - [Open the single-BO5 GRID walkthrough](notebooks/02_grid_single_bo5_event_structure.ipynb)
+- [Open the GRID access, BP and gold notebook](notebooks/03_grid_free_access_bp_and_gold.ipynb)
+- [Read the GRID analysis in HTML](reports/grid/free_access_3012979/notebook.html)
+
+## Analyze the data available with the current GRID key
+
+`notebooks/03_grid_free_access_bp_and_gold.ipynb` uses a real, expanded Series
+State response for Gen.G–IG, GRID series `3012979`. The key returned all 60 draft
+actions, 30 player-game summaries and six team-game summaries across three
+played games. Event-file download access is unnecessary for this notebook.
+
+Run All with the project `.venv` kernel. By default it reads the cached response
+in ignored `data/grid/raw/free_access_3012979/` and makes no API calls. A blank
+key therefore works when the cache exists. For a fresh snapshot, set
+`REFRESH_FROM_API = True`; supply a local key, environment variable, `.env`, or
+the hidden prompt. The new notebook does not copy the key from another notebook.
+
+The walkthrough includes:
+
+- Actual GraphQL types/descriptions, a raw-record preview, separate observation
+  grains, field availability and entity/draft consistency checks before EDA.
+- Champion pick/ban counts, game-level BP presence and a complete draft board.
+- Final cumulative gold differences, player K/D/A and gold/vision rates, and
+  listed objective totals.
+- An optional **separate Oracle's Elixir** gold-difference line using audited
+  10/15/20/25-minute checkpoints from the existing local CSV.
+
+The completed-series GRID response contains final totals, not historical gold
+snapshots. It cannot reconstruct an in-game gold curve or player movement.
+`money`, `netWorth` and `totalMoneyEarned` are kept distinct; gold comparisons use
+the last field. Roles are empty in all 30 player-game records. A Game 2 Gen.G
+team/player kill discrepancy (27 versus 26) is flagged without altering the raw
+values. This one series supports descriptive exploration, not causal attribution
+or general champion-strength estimates.
+
+Full tables, five figures, schema inventory and findings are exported to
+`reports/grid/free_access_3012979/`. The raw folder contains the exact query,
+response, provenance/hash manifest and authenticated schema introspection.
+The notebook executes all 13 code cells using the existing cache, without a key
+or network request. Rebuild it with:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/build_grid_free_access_notebook.py
+```
 
 ## Retrieve one BO5 through GRID
 
@@ -57,9 +100,11 @@ substitutes. File Download uses `https://api.grid.gg/file-download`, while Open
 Access metadata/state use `https://api-op.grid.gg`. Account-specific coverage
 and event-file permissions still need to be verified with the user's key.
 
-The blank-key notebook path and offline parser/client tests are verified. Live
-authentication, the selected series' availability, and the exact returned payload
-will be verified when the notebook is run with a real key.
+Live authentication and Series State access for series `3012979` have been
+verified with the user's key. File listing returned HTTP 403 for this product
+and series; that does not establish a universal rule about free versus paid
+plans. Notebook 03 explores the successfully retrieved draft and final-state
+data, while notebook 02 retains the event-download walkthrough.
 
 References: [GRID Open Access quick start](https://grid.helpjuice.com/3673199),
 [File Download workflow](https://grid.helpjuice.com/cloud9-x-jetbrains-hackathon/how-do-i-use-the-file-download-api),

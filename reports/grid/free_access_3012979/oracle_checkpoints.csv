@@ -1,0 +1,13 @@
+game_number,oracle_game_id,minute,gold_difference,source
+1,LOLTMNT02_487213,10,2690.0,Oracle's Elixir
+1,LOLTMNT02_487213,15,2948.0,Oracle's Elixir
+1,LOLTMNT02_487213,20,5115.0,Oracle's Elixir
+1,LOLTMNT02_487213,25,6518.0,Oracle's Elixir
+2,LOLTMNT02_488209,10,1784.0,Oracle's Elixir
+2,LOLTMNT02_488209,15,4047.0,Oracle's Elixir
+2,LOLTMNT02_488209,20,2978.0,Oracle's Elixir
+2,LOLTMNT02_488209,25,10225.0,Oracle's Elixir
+3,LOLTMNT02_487214,10,-469.0,Oracle's Elixir
+3,LOLTMNT02_487214,15,-2641.0,Oracle's Elixir
+3,LOLTMNT02_487214,20,-3366.0,Oracle's Elixir
+3,LOLTMNT02_487214,25,-2405.0,Oracle's Elixir

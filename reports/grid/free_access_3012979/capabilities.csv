@@ -1,0 +1,9 @@
+Analysis,Observed feasibility,Boundary
+BP frequency and draft order,Available after draft audit,Per-game ordered pick/ban decisions with champion and team IDs
+Final gold difference,Available,totalMoneyEarned and moneyDifference; one endpoint per game
+"Player K/D/A, gold and vision",Available after field audit,"Final player-game summaries, not action-level attribution"
+Objective totals,Available for listed objectives,Counts lack acquisition timestamps; an omitted type is not filled with zero
+Historical gold-over-time curve from GRID,Unavailable in this cached response,No sequence of historical economy snapshots was returned
+Movement paths / teamfight reconstruction,Unavailable in this cached response,One final position per player is insufficient
+Role-based comparisons,Check roles coverage above,Empty role lists are not inferred from names or roster order
+Sparse gold checkpoint line,Optional: separate Oracle source,10/15/20/25-minute checkpoints; not GRID telemetry

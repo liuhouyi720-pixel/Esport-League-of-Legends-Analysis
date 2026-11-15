@@ -1,0 +1,220 @@
+type,field,graphql_type,description
+DraftAction,id,ID!,GRID draft action ID.
+DraftAction,type,String!,Type of the draft action.
+DraftAction,sequenceNumber,String!,Sequence number of the draft action.
+DraftAction,drafter,Drafter!,Entity performing the draft action.
+DraftAction,draftable,Draftable!,Entity being drafted.
+Draftable,id,ID!,GRID ID of the entity being drafted.
+Draftable,type,String!,Type of the entity being drafted.
+Draftable,name,String!,Name of the entity being drafted.
+Draftable,linkedDraftables,[Draftable!],"List of related draftables.
+(available from version ""3.32"")"
+Drafter,id,ID!,GRID ID of the entity performing a draft action.
+Drafter,type,String!,Type of entity performing a draft action.
+GamePlayerStateLol,id,ID!,GRID ID of this Player.
+GamePlayerStateLol,name,String!,Name of this Player.
+GamePlayerStateLol,character,Character,"In-game character (ie champion, class) of the Player in this Game"
+GamePlayerStateLol,roles,[PlayerRole!]!,"Roles this Player has in this Game.
+(available from version ""3.43"")"
+GamePlayerStateLol,participationStatus,ParticipationStatus!,Indicates the participation status of a player for this Game
+GamePlayerStateLol,money,Int!,"Amount of money this Player is holding in cash.
+Depending on the Title this may represent in-game gold, credits, gems etc."
+GamePlayerStateLol,loadoutValue,Int!,Total value (worth in money) of this Player’s loadout.
+GamePlayerStateLol,netWorth,Int!,Sum of money and inventoryValue for this Player.
+GamePlayerStateLol,kills,Int!,Number of enemy kills for this Player in this Game.
+GamePlayerStateLol,killAssistsReceived,Int!,Number of enemy kill assists received by this Player in this Game.
+GamePlayerStateLol,killAssistsGiven,Int!,Number of enemy kill assists provided by this Player in this Game.
+GamePlayerStateLol,killAssistsReceivedFromPlayer,[KillAssistFromPlayer!]!,"A list of enemy KillAssistFromPlayer, containing information on kill assists received by this Player in this Game."
+GamePlayerStateLol,weaponKills,[WeaponKill!]!,"A list of enemy kills, which were executed with a specific weapon by this Player in this Game."
+GamePlayerStateLol,headshots,Int!,"Number of enemy headshots for this Player.
+(available until version ""1.9"")"
+GamePlayerStateLol,teamkills,Int!,"Number of teamkills for this Player in this Game.
+A teamkill is the occurrence of killing an allied member."
+GamePlayerStateLol,teamkillAssistsReceived,Int!,"Number of teamkill assists received by this Player in this Game.
+A teamkill is the occurrence of killing an allied member."
+GamePlayerStateLol,teamkillAssistsGiven,Int!,"Number of teamkill assists provided by this Player in this Game.
+A teamkill is the occurrence of killing an allied member"
+GamePlayerStateLol,teamkillAssistsReceivedFromPlayer,[TeamkillAssistFromPlayer!]!,"A list of KillAssistFromPlayer, containing information on teamkill assists received by this Player in this Game.
+A teamkill is the occurrence of killing an allied member."
+GamePlayerStateLol,weaponTeamkills,[WeaponKill!]!,"A list of teamkills, which were executed with a specific weapon by this Player in this Game.
+A teamkill is the occurrence of killing an allied member."
+GamePlayerStateLol,teamHeadshots,Int!,"Number of allied headshots for this Player.
+(available until version ""1.9"")"
+GamePlayerStateLol,selfkills,Int!,Number of selfkills (suicides) for this Player in this Game.
+GamePlayerStateLol,deaths,Int!,Number of deaths for this Player in this Game.
+GamePlayerStateLol,firstKill,Boolean!,"Indication of player acquiring first kill.
+(available from version ""3.10"")"
+GamePlayerStateLol,structuresDestroyed,Int!,Number of structures destroyed by this Player in this Game.
+GamePlayerStateLol,structuresCaptured,Int!,Number of structures captured by this Player in this Game.
+GamePlayerStateLol,inventory,PlayerInventory!,The Player's inventory
+GamePlayerStateLol,objectives,[Objective!]!,A list of objectives that were fulfilled by this Player in this Game.
+GamePlayerStateLol,position,Coordinates,Player Coordinates on the map
+GamePlayerStateLol,multikills,[Multikill!]!,"A list of multi kills that happened by this Player in this Game.
+(available from version ""1.7"")"
+GamePlayerStateLol,unitKills,[UnitKill!]!,"A list of unit kills that happened by this Player in this Game.
+(available from version ""3.1"")"
+GamePlayerStateLol,abilities,[DefaultAbility!]!,"A list of abilities that are owned by this Player in this Game.
+(available from version ""1.8"")"
+GamePlayerStateLol,statusEffects,[StatusEffect!]!,"A list of status effects affecting the player
+(available from version ""3.31"")"
+GamePlayerStateLol,alive,Boolean!,Indicates whether the player is alive.
+GamePlayerStateLol,currentArmor,Int!,The amount of current armor.
+GamePlayerStateLol,currentHealth,Int!,The current health of the player.
+GamePlayerStateLol,damageDealt,Int!,"The amount of damage dealt.
+(available from version ""3.23"")"
+GamePlayerStateLol,damagePercentage,Float!,"The percentage of damage dealt compared to the overall damage dealt by the player's team.
+(available from version ""3.25"")"
+GamePlayerStateLol,damagePerMinute,Float!,"The amount of damage dealt per minute.
+(available from version ""3.24"")"
+GamePlayerStateLol,damagePerMoney,Float!,"The amount of damage dealt per money earned.
+(available from version ""3.26"")"
+GamePlayerStateLol,damageTaken,Int!,"The amount of damage taken.
+(available from version ""3.23"")"
+GamePlayerStateLol,experiencePoints,Int!,The amount of experience points gathered by this player.
+GamePlayerStateLol,forwardPercentage,Float!,"The percentage of game time this player spent on the opponent's side of the map.
+(available from version ""3.42"")"
+GamePlayerStateLol,kdaRatio,Float!,"The ratio of kills and assists given vs deaths.
+(available from version ""3.27"")"
+GamePlayerStateLol,killParticipation,Float!,"The percentage of this player's kills and assists compared to the overall team's kills.
+(available from version ""3.35"")"
+GamePlayerStateLol,killsAndAssists,Float!,"The sum of kills and assists given.
+(available from version ""3.34"")"
+GamePlayerStateLol,maxHealth,Int!,The max amount of health of the player.
+GamePlayerStateLol,moneyPercentage,Float!,"The percentage of money earned compared to the overall money earned by the player's team.
+(available from version ""3.37"")"
+GamePlayerStateLol,moneyPerMinute,Float!,"The amount of money earned per minute.
+(available from version ""3.36"")"
+GamePlayerStateLol,respawnClock,ClockState!,"Respawn clock state to indicate when this player respawns.
+(available from version ""3.3"")"
+GamePlayerStateLol,totalMoneyEarned,Int!,"The total amount of money that was earned by this player.
+(available from version ""3.2"")"
+GamePlayerStateLol,visionScore,Float!,"Indicates how much vision this player has influenced in the game, including the vision that was granted and denied.
+(available from version ""3.30"")"
+GamePlayerStateLol,visionScorePerMinute,Float!,"The vision score gained per minute.
+(available from version ""3.33"")"
+GameState,id,ID!,GRID ID of this Game.
+GameState,sequenceNumber,Int!,SequenceNumber of the Game state update.
+GameState,map,MapState!,Information on the map of this Game.
+GameState,titleVersion,TitleVersion,"Indicates the game version
+(available from version ""3.12"")"
+GameState,type,GameType,"Indicates the game type
+(available from version ""3.21"")"
+GameState,started,Boolean!,Indicates whether this Game has started.
+GameState,finished,Boolean!,Indicates whether this Game has finished.
+GameState,forfeited,Boolean!,"Indicates whether this Game was forfeited.
+(available from version ""3.48"")"
+GameState,valid,Boolean!,"Indicates whether this Game data is considered accurate.
+(available from version ""3.50"")"
+GameState,invalidationReason,GameInvalidationReason,"Reason why this Game data is not considered accurate. Empty as long as this Game is valid.
+(available from version ""3.50"")"
+GameState,paused,Boolean!,Indicates whether this Game is paused.
+GameState,startedAt,DateTime,"DateTime value when this Game was started.
+(available from version ""3.7"")"
+GameState,clock,ClockState,"Clock state to indicate time of the game
+(available from version ""1.3"")"
+GameState,structures,[StructureState!]!,"A list of StructureState, containing information about the structures that are available in this Game."
+GameState,nonPlayerCharacters,[NonPlayerCharacterState!]!,"A list of NonPlayerCharacterState, containing information about the state of NPCs in this Game."
+GameState,teams,[GameTeamState!]!,"A list of GameTeamState, containing information on the teams participating in this Game."
+GameState,draftActions,[DraftAction!]!,"A list of DraftAction, containing information about draft actions in this Game."
+GameState,externalLinks,[ExternalLink!]!,"A list of ExternalLink, containing information about links to externally provided IDs.
+(available from version ""1.2"")"
+GameState,segments,[SegmentState!]!,"A list of SegmentStates, containing information of the segments in this Game.
+(available from version ""1.4"")"
+GameState,duration,Duration!,"Duration of the Game.
+(available from version ""3.15"")"
+GameTeamStateLol,id,ID!,GRID ID of this Team.
+GameTeamStateLol,name,String!,Name of this Team.
+GameTeamStateLol,side,String!,"Side that this Team has taken in this Game ie Red or Blue, Terrorists or Counter-Terrorists."
+GameTeamStateLol,won,Boolean!,Indicates whether this Team has won this Game.
+GameTeamStateLol,score,Int!,Score for this Team in this Game. This is used in the Score After format.
+GameTeamStateLol,money,Int!,"Amount of money this Team is holding in cash.
+Depending on the Title this may represent in-game gold, credits, gems etc."
+GameTeamStateLol,loadoutValue,Int!,Total value (worth in money) of all the loadouts owned by Players that are members of this Team.
+GameTeamStateLol,netWorth,Int!,Sum of money and inventoryValue for this Team.
+GameTeamStateLol,kills,Int!,Number of enemy kills for this Team in this Game.
+GameTeamStateLol,killAssistsReceived,Int!,Number of enemy kill assists received by this Team in this Game.
+GameTeamStateLol,killAssistsGiven,Int!,Number of enemy kill assists provided by this Team in this Game.
+GameTeamStateLol,killAssistsReceivedFromPlayer,[KillAssistFromPlayer!]!,"A list of enemy KillAssistFromPlayer, containing information on kill assists from a Player, received by this Team in this Game."
+GameTeamStateLol,weaponKills,[WeaponKill!]!,"A list of enemy kills, which were executed with a specific weapon by this Team in this Game."
+GameTeamStateLol,headshots,Int!,"Number of enemy headshots for this Player.
+(available until version ""1.9"")"
+GameTeamStateLol,teamkills,Int!,"Number of teamkills for this Team in this Game.
+A teamkill is the occurrence of killing an allied member."
+GameTeamStateLol,teamkillAssistsReceived,Int!,"Number of teamkill assists received by this Team in this Game.
+A teamkill is the occurrence of killing an allied member."
+GameTeamStateLol,teamkillAssistsGiven,Int!,"Number of teamkill assists provided by this Team in this Game.
+A teamkill is the occurrence of killing an allied member."
+GameTeamStateLol,teamkillAssistsReceivedFromPlayer,[TeamkillAssistFromPlayer!]!,"A list of KillAssistFromPlayer, containing information on teamkill assists from a Player, received by this Team in this Game.
+A teamkill is the occurrence of killing an allied member."
+GameTeamStateLol,weaponTeamkills,[WeaponKill!]!,"A list of teamkills, which were executed with a specific weapon by this Team in this Game.
+A teamkill is the occurrence of killing an allied member."
+GameTeamStateLol,teamHeadshots,Int!,"Number of allied headshots for this Player.
+(available until version ""1.9"")"
+GameTeamStateLol,selfkills,Int!,Number of selfkills (suicides) for this Team in this Game.
+GameTeamStateLol,deaths,Int!,Number of deaths for this Team in this Game.
+GameTeamStateLol,firstKill,Boolean!,"Indication of team acquiring first kill.
+(available from version ""3.10"")"
+GameTeamStateLol,structuresDestroyed,Int!,Number of structures destroyed by this Team in this Game.
+GameTeamStateLol,structuresCaptured,Int!,Number of structures captured by this Team in this Game.
+GameTeamStateLol,objectives,[Objective!]!,A list of objectives that were fulfilled by this Team in this Game.
+GameTeamStateLol,unitKills,[UnitKill!]!,"A list of unit kills that happened by this Team in this Game.
+(available from version ""3.1"")"
+GameTeamStateLol,players,[GamePlayerState!]!,"A list of GamePlayerState, containing information about the Players that are members of this Team."
+GameTeamStateLol,multikills,[Multikill!]!,"A list of multi kills that happened by this Team in this Game.
+(available from version ""1.7"")"
+GameTeamStateLol,baronPowerPlays,[LolBaronPowerPlay!]!,"A list of the Baron power plays that were completed by this team.
+(available from version ""3.38"")"
+GameTeamStateLol,damageDealt,Int!,"The amount of damage dealt.
+(available from version ""3.23"")"
+GameTeamStateLol,damagePerMinute,Float!,"The amount of damage dealt per minute.
+(available from version ""3.24"")"
+GameTeamStateLol,damagePerMoney,Float!,"The amount of damage dealt per money earned.
+(available from version ""3.26"")"
+GameTeamStateLol,damageTaken,Int!,"The amount of damage taken.
+(available from version ""3.23"")"
+GameTeamStateLol,experiencePoints,Int!,The amount of experience points gathered by this team.
+GameTeamStateLol,forwardPercentage,Float!,"The average percentage of game time each player of this team spent on the opponent's side of the map.
+(available from version ""3.42"")"
+GameTeamStateLol,kdaRatio,Float!,"The ratio of kills and assists given vs deaths.
+(available from version ""3.27"")"
+GameTeamStateLol,killsAndAssists,Float!,"The sum of kills and assists given.
+(available from version ""3.34"")"
+GameTeamStateLol,majorMoneyDeficit,Float!,"The percentage of game time this team owned 48.5% or less of the overall game's gold up to the 40th minute.
+(available from version ""3.41"")"
+GameTeamStateLol,majorMoneyLead,Float!,"The percentage of game time this team owned 51.5% or more of the overall game's gold up to the 40th minute.
+(available from version ""3.40"")"
+GameTeamStateLol,moneyDifference,Int!,"The total money earned difference to the opponent team.
+(available from version ""3.28"")"
+GameTeamStateLol,moneyPerMinute,Float!,"The amount of money earned per minute.
+(available from version ""3.36"")"
+GameTeamStateLol,totalMoneyEarned,Int!,"The total amount of money that was earned by this team.
+(available from version ""3.2"")"
+GameTeamStateLol,visionScore,Float!,"Indicates how much vision this team has influenced in the game, including the vision it granted and denied.
+(available from version ""3.30"")"
+GameTeamStateLol,visionScorePerMinute,Float!,"The vision score gained per minute.
+(available from version ""3.33"")"
+Objective,id,ID!,GRID ID for this objective.
+Objective,type,String!,The objective type.
+Objective,completedFirst,Boolean!,"Mark that the objective was completed for the first time on the current level.
+(available from version ""3.11"")"
+Objective,completionCount,Int!,Amount of times this objective was completed.
+SeriesState,version,Version!,Version of the data model returned.
+SeriesState,id,ID!,GRID ID of this Series.
+SeriesState,title,Title!,"Esports Title of this Series.
+(available from version ""1.1"")"
+SeriesState,format,String!,Format of this Series e.g. Best of 3 (Bo3).
+SeriesState,started,Boolean!,Indicates whether this Series has started.
+SeriesState,finished,Boolean!,Indicates whether this Series has finished.
+SeriesState,forfeited,Boolean!,"Indicates whether this Series was forfeited.
+(available from version ""3.48"")"
+SeriesState,valid,Boolean!,Indicates whether this Series data is considered accurate.
+SeriesState,invalidationReason,SeriesInvalidationReason,"Reason why this Series data is not considered accurate. Empty as long as this Series is valid.
+(available from version ""3.49"")"
+SeriesState,teams,[SeriesTeamState!]!,"A list of SeriesTeamState, containing information about the Teams participating in this Series."
+SeriesState,games,[GameState!]!,"A list of GameState, containing information about the Games in this Series"
+SeriesState,draftActions,[DraftAction!]!,"A list of DraftAction, containing information about draft actions in this Series."
+SeriesState,updatedAt,DateTime!,DateTime value when this Series data was last updated.
+SeriesState,startedAt,DateTime,"DateTime value when this Series was started.
+(available from version ""2.1"")"
+SeriesState,duration,Duration!,"Duration of the whole Series.
+(available from version ""3.14"")"

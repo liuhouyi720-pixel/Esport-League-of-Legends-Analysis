@@ -1,0 +1,20 @@
+check,passed,severity,detail
+games keys,True,block,"3 rows; key = series_id, game_id"
+teams keys,True,block,"6 rows; key = game_id, team_id"
+players keys,True,block,"30 rows; key = game_id, player_id"
+drafts keys,True,block,"60 rows; key = game_id, action_id"
+Game numbers,True,block,Use the returned sequenceNumber; do not infer game number from array order.
+Completed valid games,True,block,"This notebook analyzes completed, valid games only."
+Two teams per game,True,block,Expected for the selected LoL series.
+Five players per team-game,True,block,Expected for the selected LoL series.
+Persistent team IDs,True,block,"Match team IDs to the series roster, not team-array order."
+Player-to-team join,True,block,Many players to one team-game; no unmatched players.
+One winner per game,True,block,A finished game should have exactly one winning team.
+Draft team IDs,True,block,Every action must resolve to a team in that same game.
+Draft completeness,True,block,Selected format: five picks and five bans per team-game.
+Draft sequence uniqueness,True,block,Draft action IDs and sequence numbers are scoped to each game.
+Picks match player champions,True,block,Compare champion IDs at game/team grain.
+Team minus player sums: kills,False,review,1 nonzero/missing residuals; preserve source values and investigate.
+Team minus player sums: deaths,True,review,0 nonzero/missing residuals; preserve source values and investigate.
+Team minus player sums: totalMoneyEarned,True,review,0 nonzero/missing residuals; preserve source values and investigate.
+Team minus player sums: netWorth,True,review,0 nonzero/missing residuals; preserve source values and investigate.
